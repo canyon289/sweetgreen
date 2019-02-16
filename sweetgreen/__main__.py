@@ -1,3 +1,3 @@
-from .web import *
+from .web import main
 
 main()

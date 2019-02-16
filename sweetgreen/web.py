@@ -2,6 +2,7 @@ from bs4 import BeautifulSoup
 import requests
 
 from .utils import write_json
+import os
 
 LOCATIONS = (
     "Chicago",
@@ -108,5 +109,6 @@ def parse_ingredients(location, menu_html):
 def main():
     """Parse all webpages and output json"""
     all_menu_items, all_ingredients = parse_locations(BASE_URL, LOCATIONS)
-    write_json("raw_menu_items.json", all_menu_items)
-    write_json("raw_ingredients.json", all_ingredients)
+    file_path = os.path.join("data", "raw")
+    write_json(os.path.join(file_path, "raw_menu_items.json"), all_menu_items)
+    write_json(os.path.join(file_path, "raw_ingredients.json"), all_ingredients)
