@@ -3,8 +3,15 @@ import requests
 
 from .utils import write_json
 
-LOCATIONS = ("Chicago", "Bay-Area", "new-york", "philadelpha",
-              "boston", "dc-md-va", "los-angeles")
+LOCATIONS = (
+    "Chicago",
+    "Bay-Area",
+    "new-york",
+    "philadelpha",
+    "boston",
+    "dc-md-va",
+    "los-angeles",
+)
 
 BASE_URL = "https://www.sweetgreen.com/menu/?region="
 
@@ -21,7 +28,7 @@ def parse_locations(base_url, locations=None):
         location_html = location_response.text
 
         # Parse HTML
-        soup = BeautifulSoup(location_html, 'html.parser')
+        soup = BeautifulSoup(location_html, "html.parser")
         section_grids = soup.find_all(class_="section-grid")
         assert len(section_grids) == 4
 
@@ -55,8 +62,15 @@ def parse_menu_items(location, menu_sections):
                 item_name = raw_menu_item.find("h2").text
                 ingredients = raw_menu_item.find("p").text
 
-                region_menu_items.append({"location": location, "item_type":item_type,
-                    "item_name":item_name, "calories":calories, "ingredients":ingredients})
+                region_menu_items.append(
+                    {
+                        "location": location,
+                        "item_type": item_type,
+                        "item_name": item_name,
+                        "calories": calories,
+                        "ingredients": ingredients,
+                    }
+                )
     return region_menu_items
 
 
@@ -66,7 +80,9 @@ def parse_ingredients(location, menu_html):
     ingredient_types = ["bases", "ingredients", "premiums", "dressings"]
 
     for ingredient_type in ingredient_types:
-        ingredients_html = menu_html.find(id=ingredient_type).find_all(class_="ingredientlist")
+        ingredients_html = menu_html.find(id=ingredient_type).find_all(
+            class_="ingredientlist"
+        )
 
         for ingredient_html in ingredients_html:
             ingredient_html = ingredient_html.find(class_="title")
@@ -78,10 +94,12 @@ def parse_ingredients(location, menu_html):
             except KeyError:
                 seasonal = False
 
-            ingredient_json = {"location":location,
-                    "ingredient_type":ingredient_type,
-                    "ingredient":ingredient,
-                    "seasonal":seasonal}
+            ingredient_json = {
+                "location": location,
+                "ingredient_type": ingredient_type,
+                "ingredient": ingredient,
+                "seasonal": seasonal,
+            }
 
             regsion_ingredients.append(ingredient_json)
     return regsion_ingredients
