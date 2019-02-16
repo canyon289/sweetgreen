@@ -9,3 +9,8 @@ def write_json(filename, obj):
     with open(filename, "w") as file_output:
         json.dump(obj, file_output, indent=4)
     return
+
+
+def read_json(filename):
+    with open(filename, "r") as file_input:
+        return json.load(file_input)
