@@ -1,0 +1,65 @@
+[
+    {
+        "location": null,
+        "item_type": "Seasonal",
+        "item_name": "Miso Bowl",
+        "calories": "\n                                                                                                                                                    670 cal\n                                                                                            ",
+        "ingredients": "Blackened chicken thighs, miso-glazed root vegetables, shredded cabbage, basil, toasted almonds, organic wild rice, shredded kale, miso sesame ginger vinaigrette"
+    },
+    {
+        "location": null,
+        "item_type": "Seasonal",
+        "item_name": "Winter Maple Squash Salad",
+        "calories": "\n                                                                                                                                                    430 cal\n                                                                                            ",
+        "ingredients": "Balsamic roasted squash, caramelized onions + leeks, local apples, basil, shaved parmesan, raisins, raw walnuts, organic arugula, organic mesclun, maple mustard vinaigrette"
+    },
+    {
+        "location": null,
+        "item_type": "Seasonal",
+        "item_name": "Buffalo Chicken Bowl",
+        "calories": "\n                                                                                                                                                    440 cal\n                                                                                            ",
+        "ingredients": "Blackened chicken thighs, pickled carrots + celery, tomatoes, cilantro, local blue cheese, za'atar breadcrumbs, shredded kale, chopped romaine, sweetgreen hot sauce, caesar dressing"
+    },
+    {
+        "location": null,
+        "item_type": "Seasonal",
+        "item_name": "Spiced Cider",
+        "calories": "\n                                                                                                                                                    60 cal\n                                                                                            ",
+        "ingredients": "Apples, spices and lemon juice. Naturally sweetened with raisins!"
+    },
+    {
+        "location": null,
+        "item_type": "WarmBowl",
+        "item_name": "Shroomami",
+        "calories": "\n\n\n                            640 cal\n                          ",
+        "ingredients": "organic wild rice, shredded kale, raw beets, cucumbers, basil, spicy sunflower seeds, warm portobello mix, roasted sesame tofu, miso sesame ginger dressing"
+    },
+    {
+        "location": null,
+        "item_type": "WarmBowl",
+        "item_name": "Chicken Pesto Parm*",
+        "calories": "\n\n                            525 cal\n                          ",
+        "ingredients": "roasted chicken, spicy broccoli, tomatoes, shaved parmesan, za'atar breadcrumbs, warm quinoa, organic spinach, sweetgreen hot sauce, pesto vinaigrette"
+    },
+    {
+        "location": null,
+        "item_type": "WarmBowl",
+        "item_name": "Harvest Bowl",
+        "calories": "\n\n                            705 cal\n                          ",
+        "ingredients": "organic wild rice, shredded kale, apples, sweet potatoes, roasted chicken, local goat cheese, toasted almonds, balsamic vinaigrette"
+    },
+    {
+        "location": null,
+        "item_type": "WarmBowl",
+        "item_name": "Curry Chickpea Bowl",
+        "calories": "\n\n                            650 cal\n                          ",
+        "ingredients": "roasted chicken, hot chickpeas, shredded carrots, shredded cabbage, raisins, cilantro, toasted almonds, warm quinoa, organic baby spinach, curry yogurt dressing"
+    },
+    {
+        "location": null,
+        "item_type": "WarmBowl",
+        "item_name": "Fish Taco",
+        "calories": "\n\n                            520 cal\n                          ",
+        "ingredients": "roasted steelhead, shredded cabbage, cilantro, tortilla chips, warm quinoa, organic arugula, sweetgreen hot sauce, lime cilantro jalapeno vinaigrette "
+    }
+]
