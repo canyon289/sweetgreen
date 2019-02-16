@@ -1,0 +1,443 @@
+[
+    {
+        "location": "Chicago",
+        "item_type": "Seasonal",
+        "item_name": "Miso Bowl",
+        "calories": "\n                                                                                                                                                    670 cal\n                                                                                            ",
+        "ingredients": "Blackened chicken thighs, miso-glazed root vegetables, shredded cabbage, basil, toasted almonds, organic wild rice, shredded kale, miso sesame ginger vinaigrette"
+    },
+    {
+        "location": "Chicago",
+        "item_type": "Seasonal",
+        "item_name": "Winter Maple Squash Salad",
+        "calories": "\n                                                                                                                                                    430 cal\n                                                                                            ",
+        "ingredients": "Balsamic roasted squash, caramelized onions + leeks, local apples, basil, shaved parmesan, raisins, raw walnuts, organic arugula, organic mesclun, maple mustard vinaigrette"
+    },
+    {
+        "location": "Chicago",
+        "item_type": "Seasonal",
+        "item_name": "Buffalo Chicken Bowl",
+        "calories": "\n                                                                                                                                                    440 cal\n                                                                                            ",
+        "ingredients": "Blackened chicken thighs, pickled carrots + celery, tomatoes, cilantro, local blue cheese, za'atar breadcrumbs, shredded kale, chopped romaine, sweetgreen hot sauce, caesar dressing"
+    },
+    {
+        "location": "Chicago",
+        "item_type": "Seasonal",
+        "item_name": "Spiced Cider",
+        "calories": "\n                                                                                                                                                    60 cal\n                                                                                            ",
+        "ingredients": "Apples, spices and lemon juice. Naturally sweetened with raisins!"
+    },
+    {
+        "location": "Chicago",
+        "item_type": "WarmBowl",
+        "item_name": "Shroomami",
+        "calories": "\n\n\n                            640 cal\n                          ",
+        "ingredients": "organic wild rice, shredded kale, raw beets, cucumbers, basil, spicy sunflower seeds, warm portobello mix, roasted sesame tofu, miso sesame ginger dressing"
+    },
+    {
+        "location": "Chicago",
+        "item_type": "WarmBowl",
+        "item_name": "Chicken Pesto Parm*",
+        "calories": "\n\n                            525 cal\n                          ",
+        "ingredients": "roasted chicken, spicy broccoli, tomatoes, shaved parmesan, za'atar breadcrumbs, warm quinoa, organic spinach, sweetgreen hot sauce, pesto vinaigrette"
+    },
+    {
+        "location": "Chicago",
+        "item_type": "WarmBowl",
+        "item_name": "Harvest Bowl",
+        "calories": "\n\n                            705 cal\n                          ",
+        "ingredients": "organic wild rice, shredded kale, apples, sweet potatoes, roasted chicken, local goat cheese, toasted almonds, balsamic vinaigrette"
+    },
+    {
+        "location": "Chicago",
+        "item_type": "WarmBowl",
+        "item_name": "Curry Chickpea Bowl",
+        "calories": "\n\n                            650 cal\n                          ",
+        "ingredients": "roasted chicken, hot chickpeas, shredded carrots, shredded cabbage, raisins, cilantro, toasted almonds, warm quinoa, organic baby spinach, curry yogurt dressing"
+    },
+    {
+        "location": "Chicago",
+        "item_type": "WarmBowl",
+        "item_name": "Fish Taco",
+        "calories": "\n\n                            520 cal\n                          ",
+        "ingredients": "roasted steelhead, shredded cabbage, cilantro, tortilla chips, warm quinoa, organic arugula, sweetgreen hot sauce, lime cilantro jalapeno vinaigrette "
+    },
+    {
+        "location": "Bay-Area",
+        "item_type": "Seasonal",
+        "item_name": "Miso Bowl",
+        "calories": "\n                                                                                                                                                    670 cal\n                                                                                            ",
+        "ingredients": "Blackened chicken thighs, miso-glazed root vegetables, shredded cabbage, basil, toasted almonds, organic wild rice, shredded kale, miso sesame ginger vinaigrette"
+    },
+    {
+        "location": "Bay-Area",
+        "item_type": "Seasonal",
+        "item_name": "Winter Maple Squash Salad",
+        "calories": "\n                                                                                                                                                    430 cal\n                                                                                            ",
+        "ingredients": "Balsamic roasted squash, caramelized onions + leeks, local apples, basil, shaved parmesan, raisins, raw walnuts, organic arugula, organic mesclun, maple mustard vinaigrette"
+    },
+    {
+        "location": "Bay-Area",
+        "item_type": "Seasonal",
+        "item_name": "Buffalo Chicken Bowl",
+        "calories": "\n                                                                                                                                                    440 cal\n                                                                                            ",
+        "ingredients": "Blackened chicken thighs, pickled carrots + celery, tomatoes, cilantro, local blue cheese, za'atar breadcrumbs, shredded kale, chopped romaine, sweetgreen hot sauce, caesar dressing"
+    },
+    {
+        "location": "Bay-Area",
+        "item_type": "Seasonal",
+        "item_name": "Spiced Cider",
+        "calories": "\n                                                                                                                                                    60 cal\n                                                                                            ",
+        "ingredients": "Apples, spices and lemon juice. Naturally sweetened with raisins!"
+    },
+    {
+        "location": "Bay-Area",
+        "item_type": "WarmBowl",
+        "item_name": "Shroomami",
+        "calories": "\n\n\n                            640 cal\n                          ",
+        "ingredients": "organic wild rice, shredded kale, raw beets, cucumbers, basil, spicy sunflower seeds, warm portobello mix, roasted sesame tofu, miso sesame ginger dressing"
+    },
+    {
+        "location": "Bay-Area",
+        "item_type": "WarmBowl",
+        "item_name": "Chicken Pesto Parm*",
+        "calories": "\n\n                            525 cal\n                          ",
+        "ingredients": "roasted chicken, spicy broccoli, tomatoes, shaved parmesan, za'atar breadcrumbs, warm quinoa, organic spinach, sweetgreen hot sauce, pesto vinaigrette"
+    },
+    {
+        "location": "Bay-Area",
+        "item_type": "WarmBowl",
+        "item_name": "Harvest Bowl",
+        "calories": "\n\n                            705 cal\n                          ",
+        "ingredients": "organic wild rice, shredded kale, apples, sweet potatoes, roasted chicken, local goat cheese, toasted almonds, balsamic vinaigrette"
+    },
+    {
+        "location": "Bay-Area",
+        "item_type": "WarmBowl",
+        "item_name": "Curry Chickpea Bowl",
+        "calories": "\n\n                            650 cal\n                          ",
+        "ingredients": "roasted chicken, hot chickpeas, shredded carrots, shredded cabbage, raisins, cilantro, toasted almonds, warm quinoa, organic baby spinach, curry yogurt dressing"
+    },
+    {
+        "location": "Bay-Area",
+        "item_type": "WarmBowl",
+        "item_name": "Fish Taco",
+        "calories": "\n\n                            520 cal\n                          ",
+        "ingredients": "roasted steelhead, shredded cabbage, cilantro, tortilla chips, warm quinoa, organic arugula, sweetgreen hot sauce, lime cilantro jalapeno vinaigrette "
+    },
+    {
+        "location": "new-york",
+        "item_type": "Seasonal",
+        "item_name": "Miso Bowl",
+        "calories": "\n                                                                                                                                                    670 cal\n                                                                                            ",
+        "ingredients": "Blackened chicken thighs, miso-glazed root vegetables, shredded cabbage, basil, toasted almonds, organic wild rice, shredded kale, miso sesame ginger vinaigrette"
+    },
+    {
+        "location": "new-york",
+        "item_type": "Seasonal",
+        "item_name": "Winter Maple Squash Salad",
+        "calories": "\n                                                                                                                                                    430 cal\n                                                                                            ",
+        "ingredients": "Balsamic roasted squash, caramelized onions + leeks, local apples, basil, shaved parmesan, raisins, raw walnuts, organic arugula, organic mesclun, maple mustard vinaigrette"
+    },
+    {
+        "location": "new-york",
+        "item_type": "Seasonal",
+        "item_name": "Buffalo Chicken Bowl",
+        "calories": "\n                                                                                                                                                    440 cal\n                                                                                            ",
+        "ingredients": "Blackened chicken thighs, pickled carrots + celery, tomatoes, cilantro, local blue cheese, za'atar breadcrumbs, shredded kale, chopped romaine, sweetgreen hot sauce, caesar dressing"
+    },
+    {
+        "location": "new-york",
+        "item_type": "Seasonal",
+        "item_name": "Spiced Cider",
+        "calories": "\n                                                                                                                                                    60 cal\n                                                                                            ",
+        "ingredients": "Apples, spices and lemon juice. Naturally sweetened with raisins!"
+    },
+    {
+        "location": "new-york",
+        "item_type": "WarmBowl",
+        "item_name": "Shroomami",
+        "calories": "\n\n\n                            640 cal\n                          ",
+        "ingredients": "organic wild rice, shredded kale, raw beets, cucumbers, basil, spicy sunflower seeds, warm portobello mix, roasted sesame tofu, miso sesame ginger dressing"
+    },
+    {
+        "location": "new-york",
+        "item_type": "WarmBowl",
+        "item_name": "Chicken Pesto Parm*",
+        "calories": "\n\n                            525 cal\n                          ",
+        "ingredients": "roasted chicken, spicy broccoli, tomatoes, shaved parmesan, za'atar breadcrumbs, warm quinoa, organic spinach, sweetgreen hot sauce, pesto vinaigrette"
+    },
+    {
+        "location": "new-york",
+        "item_type": "WarmBowl",
+        "item_name": "Harvest Bowl",
+        "calories": "\n\n                            705 cal\n                          ",
+        "ingredients": "organic wild rice, shredded kale, apples, sweet potatoes, roasted chicken, local goat cheese, toasted almonds, balsamic vinaigrette"
+    },
+    {
+        "location": "new-york",
+        "item_type": "WarmBowl",
+        "item_name": "Curry Chickpea Bowl",
+        "calories": "\n\n                            650 cal\n                          ",
+        "ingredients": "roasted chicken, hot chickpeas, shredded carrots, shredded cabbage, raisins, cilantro, toasted almonds, warm quinoa, organic baby spinach, curry yogurt dressing"
+    },
+    {
+        "location": "new-york",
+        "item_type": "WarmBowl",
+        "item_name": "Fish Taco",
+        "calories": "\n\n                            520 cal\n                          ",
+        "ingredients": "roasted steelhead, shredded cabbage, cilantro, tortilla chips, warm quinoa, organic arugula, sweetgreen hot sauce, lime cilantro jalapeno vinaigrette "
+    },
+    {
+        "location": "philadelpha",
+        "item_type": "Seasonal",
+        "item_name": "Miso Bowl",
+        "calories": "\n                                                                                                                                                    670 cal\n                                                                                            ",
+        "ingredients": "Blackened chicken thighs, miso-glazed root vegetables, shredded cabbage, basil, toasted almonds, organic wild rice, shredded kale, miso sesame ginger vinaigrette"
+    },
+    {
+        "location": "philadelpha",
+        "item_type": "Seasonal",
+        "item_name": "Winter Maple Squash Salad",
+        "calories": "\n                                                                                                                                                    430 cal\n                                                                                            ",
+        "ingredients": "Balsamic roasted squash, caramelized onions + leeks, local apples, basil, shaved parmesan, raisins, raw walnuts, organic arugula, organic mesclun, maple mustard vinaigrette"
+    },
+    {
+        "location": "philadelpha",
+        "item_type": "Seasonal",
+        "item_name": "Buffalo Chicken Bowl",
+        "calories": "\n                                                                                                                                                    440 cal\n                                                                                            ",
+        "ingredients": "Blackened chicken thighs, pickled carrots + celery, tomatoes, cilantro, local blue cheese, za'atar breadcrumbs, shredded kale, chopped romaine, sweetgreen hot sauce, caesar dressing"
+    },
+    {
+        "location": "philadelpha",
+        "item_type": "Seasonal",
+        "item_name": "Spiced Cider",
+        "calories": "\n                                                                                                                                                    60 cal\n                                                                                            ",
+        "ingredients": "Apples, spices and lemon juice. Naturally sweetened with raisins!"
+    },
+    {
+        "location": "philadelpha",
+        "item_type": "WarmBowl",
+        "item_name": "Shroomami",
+        "calories": "\n\n\n                            640 cal\n                          ",
+        "ingredients": "organic wild rice, shredded kale, raw beets, cucumbers, basil, spicy sunflower seeds, warm portobello mix, roasted sesame tofu, miso sesame ginger dressing"
+    },
+    {
+        "location": "philadelpha",
+        "item_type": "WarmBowl",
+        "item_name": "Chicken Pesto Parm*",
+        "calories": "\n\n                            525 cal\n                          ",
+        "ingredients": "roasted chicken, spicy broccoli, tomatoes, shaved parmesan, za'atar breadcrumbs, warm quinoa, organic spinach, sweetgreen hot sauce, pesto vinaigrette"
+    },
+    {
+        "location": "philadelpha",
+        "item_type": "WarmBowl",
+        "item_name": "Harvest Bowl",
+        "calories": "\n\n                            705 cal\n                          ",
+        "ingredients": "organic wild rice, shredded kale, apples, sweet potatoes, roasted chicken, local goat cheese, toasted almonds, balsamic vinaigrette"
+    },
+    {
+        "location": "philadelpha",
+        "item_type": "WarmBowl",
+        "item_name": "Curry Chickpea Bowl",
+        "calories": "\n\n                            650 cal\n                          ",
+        "ingredients": "roasted chicken, hot chickpeas, shredded carrots, shredded cabbage, raisins, cilantro, toasted almonds, warm quinoa, organic baby spinach, curry yogurt dressing"
+    },
+    {
+        "location": "philadelpha",
+        "item_type": "WarmBowl",
+        "item_name": "Fish Taco",
+        "calories": "\n\n                            520 cal\n                          ",
+        "ingredients": "roasted steelhead, shredded cabbage, cilantro, tortilla chips, warm quinoa, organic arugula, sweetgreen hot sauce, lime cilantro jalapeno vinaigrette "
+    },
+    {
+        "location": "boston",
+        "item_type": "Seasonal",
+        "item_name": "Miso Bowl",
+        "calories": "\n                                                                                                                                                    670 cal\n                                                                                            ",
+        "ingredients": "Blackened chicken thighs, miso-glazed root vegetables, shredded cabbage, basil, toasted almonds, organic wild rice, shredded kale, miso sesame ginger vinaigrette"
+    },
+    {
+        "location": "boston",
+        "item_type": "Seasonal",
+        "item_name": "Winter Maple Squash Salad",
+        "calories": "\n                                                                                                                                                    430 cal\n                                                                                            ",
+        "ingredients": "Balsamic roasted squash, caramelized onions + leeks, local apples, basil, shaved parmesan, raisins, raw walnuts, organic arugula, organic mesclun, maple mustard vinaigrette"
+    },
+    {
+        "location": "boston",
+        "item_type": "Seasonal",
+        "item_name": "Buffalo Chicken Bowl",
+        "calories": "\n                                                                                                                                                    440 cal\n                                                                                            ",
+        "ingredients": "Blackened chicken thighs, pickled carrots + celery, tomatoes, cilantro, local blue cheese, za'atar breadcrumbs, shredded kale, chopped romaine, sweetgreen hot sauce, caesar dressing"
+    },
+    {
+        "location": "boston",
+        "item_type": "Seasonal",
+        "item_name": "Spiced Cider",
+        "calories": "\n                                                                                                                                                    60 cal\n                                                                                            ",
+        "ingredients": "Apples, spices and lemon juice. Naturally sweetened with raisins!"
+    },
+    {
+        "location": "boston",
+        "item_type": "WarmBowl",
+        "item_name": "Shroomami",
+        "calories": "\n\n\n                            640 cal\n                          ",
+        "ingredients": "organic wild rice, shredded kale, raw beets, cucumbers, basil, spicy sunflower seeds, warm portobello mix, roasted sesame tofu, miso sesame ginger dressing"
+    },
+    {
+        "location": "boston",
+        "item_type": "WarmBowl",
+        "item_name": "Chicken Pesto Parm*",
+        "calories": "\n\n                            525 cal\n                          ",
+        "ingredients": "roasted chicken, spicy broccoli, tomatoes, shaved parmesan, za'atar breadcrumbs, warm quinoa, organic spinach, sweetgreen hot sauce, pesto vinaigrette"
+    },
+    {
+        "location": "boston",
+        "item_type": "WarmBowl",
+        "item_name": "Harvest Bowl",
+        "calories": "\n\n                            705 cal\n                          ",
+        "ingredients": "organic wild rice, shredded kale, apples, sweet potatoes, roasted chicken, local goat cheese, toasted almonds, balsamic vinaigrette"
+    },
+    {
+        "location": "boston",
+        "item_type": "WarmBowl",
+        "item_name": "Curry Chickpea Bowl",
+        "calories": "\n\n                            650 cal\n                          ",
+        "ingredients": "roasted chicken, hot chickpeas, shredded carrots, shredded cabbage, raisins, cilantro, toasted almonds, warm quinoa, organic baby spinach, curry yogurt dressing"
+    },
+    {
+        "location": "boston",
+        "item_type": "WarmBowl",
+        "item_name": "Fish Taco",
+        "calories": "\n\n                            520 cal\n                          ",
+        "ingredients": "roasted steelhead, shredded cabbage, cilantro, tortilla chips, warm quinoa, organic arugula, sweetgreen hot sauce, lime cilantro jalapeno vinaigrette "
+    },
+    {
+        "location": "dc-md-va",
+        "item_type": "Seasonal",
+        "item_name": "Miso Bowl",
+        "calories": "\n                                                                                                                                                    670 cal\n                                                                                            ",
+        "ingredients": "Blackened chicken thighs, miso-glazed root vegetables, shredded cabbage, basil, toasted almonds, organic wild rice, shredded kale, miso sesame ginger vinaigrette"
+    },
+    {
+        "location": "dc-md-va",
+        "item_type": "Seasonal",
+        "item_name": "Winter Maple Squash Salad",
+        "calories": "\n                                                                                                                                                    430 cal\n                                                                                            ",
+        "ingredients": "Balsamic roasted squash, caramelized onions + leeks, local apples, basil, shaved parmesan, raisins, raw walnuts, organic arugula, organic mesclun, maple mustard vinaigrette"
+    },
+    {
+        "location": "dc-md-va",
+        "item_type": "Seasonal",
+        "item_name": "Buffalo Chicken Bowl",
+        "calories": "\n                                                                                                                                                    440 cal\n                                                                                            ",
+        "ingredients": "Blackened chicken thighs, pickled carrots + celery, tomatoes, cilantro, local blue cheese, za'atar breadcrumbs, shredded kale, chopped romaine, sweetgreen hot sauce, caesar dressing"
+    },
+    {
+        "location": "dc-md-va",
+        "item_type": "Seasonal",
+        "item_name": "Spiced Cider",
+        "calories": "\n                                                                                                                                                    60 cal\n                                                                                            ",
+        "ingredients": "Apples, spices and lemon juice. Naturally sweetened with raisins!"
+    },
+    {
+        "location": "dc-md-va",
+        "item_type": "WarmBowl",
+        "item_name": "Shroomami",
+        "calories": "\n\n\n                            640 cal\n                          ",
+        "ingredients": "organic wild rice, shredded kale, raw beets, cucumbers, basil, spicy sunflower seeds, warm portobello mix, roasted sesame tofu, miso sesame ginger dressing"
+    },
+    {
+        "location": "dc-md-va",
+        "item_type": "WarmBowl",
+        "item_name": "Chicken Pesto Parm*",
+        "calories": "\n\n                            525 cal\n                          ",
+        "ingredients": "roasted chicken, spicy broccoli, tomatoes, shaved parmesan, za'atar breadcrumbs, warm quinoa, organic spinach, sweetgreen hot sauce, pesto vinaigrette"
+    },
+    {
+        "location": "dc-md-va",
+        "item_type": "WarmBowl",
+        "item_name": "Harvest Bowl",
+        "calories": "\n\n                            705 cal\n                          ",
+        "ingredients": "organic wild rice, shredded kale, apples, sweet potatoes, roasted chicken, local goat cheese, toasted almonds, balsamic vinaigrette"
+    },
+    {
+        "location": "dc-md-va",
+        "item_type": "WarmBowl",
+        "item_name": "Curry Chickpea Bowl",
+        "calories": "\n\n                            650 cal\n                          ",
+        "ingredients": "roasted chicken, hot chickpeas, shredded carrots, shredded cabbage, raisins, cilantro, toasted almonds, warm quinoa, organic baby spinach, curry yogurt dressing"
+    },
+    {
+        "location": "dc-md-va",
+        "item_type": "WarmBowl",
+        "item_name": "Fish Taco",
+        "calories": "\n\n                            520 cal\n                          ",
+        "ingredients": "roasted steelhead, shredded cabbage, cilantro, tortilla chips, warm quinoa, organic arugula, sweetgreen hot sauce, lime cilantro jalapeno vinaigrette "
+    },
+    {
+        "location": "los-angeles",
+        "item_type": "Seasonal",
+        "item_name": "Miso Bowl",
+        "calories": "\n                                                                                                                                                    670 cal\n                                                                                            ",
+        "ingredients": "Blackened chicken thighs, miso-glazed root vegetables, shredded cabbage, basil, toasted almonds, organic wild rice, shredded kale, miso sesame ginger vinaigrette"
+    },
+    {
+        "location": "los-angeles",
+        "item_type": "Seasonal",
+        "item_name": "Winter Maple Squash Salad",
+        "calories": "\n                                                                                                                                                    430 cal\n                                                                                            ",
+        "ingredients": "Balsamic roasted squash, caramelized onions + leeks, local apples, basil, shaved parmesan, raisins, raw walnuts, organic arugula, organic mesclun, maple mustard vinaigrette"
+    },
+    {
+        "location": "los-angeles",
+        "item_type": "Seasonal",
+        "item_name": "Buffalo Chicken Bowl*",
+        "calories": "\n                                                                                                                                                                                                                                                                                                                                                                                                                            440 cal\n                                                                                            ",
+        "ingredients": "Blackened chicken thighs, pickled carrots + celery, tomatoes, cilantro, local blue cheese, za'atar breadcrumbs, shredded kale, chopped romaine, sweetgreen hot sauce, caesar dressing"
+    },
+    {
+        "location": "los-angeles",
+        "item_type": "Seasonal",
+        "item_name": "Spiced Cider",
+        "calories": "\n                                                                                                                                                    60 cal\n                                                                                            ",
+        "ingredients": "Apples, spices and lemon juice. Naturally sweetened with raisins."
+    },
+    {
+        "location": "los-angeles",
+        "item_type": "WarmBowl",
+        "item_name": "Shroomami",
+        "calories": "\n\n\n                            640 cal\n                          ",
+        "ingredients": "organic wild rice, shredded kale, raw beets, cucumbers, basil, spicy sunflower seeds, roasted sesame tofu, warm portobello mix, miso sesame ginger dressing"
+    },
+    {
+        "location": "los-angeles",
+        "item_type": "WarmBowl",
+        "item_name": "Chicken Pesto Parm*",
+        "calories": "\n\n                            525 cal\n                          ",
+        "ingredients": "Roasted chicken, spicy broccoli, tomatoes, shaved parmesan, za'atar breadcrumbs, warm quinoa, organic spinach, sweetgreen hot sauce, pesto vinaigrette"
+    },
+    {
+        "location": "los-angeles",
+        "item_type": "WarmBowl",
+        "item_name": "Fish Taco",
+        "calories": "\n\n                            520 cal\n                          ",
+        "ingredients": "Roasted steelhead, shredded cabbage, cilantro, tortilla chips, warm quinoa, organic arugula, sweetgreen hot sauce, lime cilantro jalapeno vinaigrette "
+    },
+    {
+        "location": "los-angeles",
+        "item_type": "WarmBowl",
+        "item_name": "Curry Chickpea Bowl",
+        "calories": "\n\n                            650 cal\n                          ",
+        "ingredients": "Roasted chicken, hot chickpeas, shredded carrots, shredded cabbage, raisins, cilantro, toasted almonds, warm quinoa, organic baby spinach, curry yogurt dressing"
+    },
+    {
+        "location": "los-angeles",
+        "item_type": "WarmBowl",
+        "item_name": "Hollywood Bowl",
+        "calories": "\n\n                            705 cal\n                          ",
+        "ingredients": "organic wild rice, shredded kale, jicama, grapes, raisins, local goat cheese, roasted chicken, roasted almonds, balsamic vinaigrette"
+    }
+]

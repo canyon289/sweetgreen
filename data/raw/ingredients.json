@@ -1,0 +1,2522 @@
+[
+    {
+        "location": "Chicago",
+        "ingredient_type": "bases",
+        "ingredient": "organic mesclun  \u00a0\u00a0\n                                                                                                                     ",
+        "seasonal": false
+    },
+    {
+        "location": "Chicago",
+        "ingredient_type": "bases",
+        "ingredient": "organic arugula  \u00a0\u00a0\n                                                                                                                     ",
+        "seasonal": false
+    },
+    {
+        "location": "Chicago",
+        "ingredient_type": "bases",
+        "ingredient": "organic baby spinach  \u00a0\u00a0\n                                                                                                                     ",
+        "seasonal": false
+    },
+    {
+        "location": "Chicago",
+        "ingredient_type": "bases",
+        "ingredient": "shredded kale  \u00a0\u00a0\n                                                                                                                     ",
+        "seasonal": false
+    },
+    {
+        "location": "Chicago",
+        "ingredient_type": "bases",
+        "ingredient": "chopped romaine  \u00a0\u00a0\n                                                                                                                     ",
+        "seasonal": false
+    },
+    {
+        "location": "Chicago",
+        "ingredient_type": "bases",
+        "ingredient": "warm quinoa  \u00a0\u00a0\n                                                                                                                     ",
+        "seasonal": false
+    },
+    {
+        "location": "Chicago",
+        "ingredient_type": "bases",
+        "ingredient": "organic wild rice   \u00a0\u00a0\n                                                                                                                     ",
+        "seasonal": false
+    },
+    {
+        "location": "Chicago",
+        "ingredient_type": "ingredients",
+        "ingredient": "Caramelized Onions + Leeks  \u00a0\u00a0\n                                                                                                                                                                                                                                                                                                                ",
+        "seasonal": true
+    },
+    {
+        "location": "Chicago",
+        "ingredient_type": "ingredients",
+        "ingredient": "Badger Flame Beets  \u00a0\u00a0\n                                                                                                                                                                                                                                                                                                                ",
+        "seasonal": true
+    },
+    {
+        "location": "Chicago",
+        "ingredient_type": "ingredients",
+        "ingredient": "cilantro  \u00a0\u00a0\n                                                                                                                     ",
+        "seasonal": false
+    },
+    {
+        "location": "Chicago",
+        "ingredient_type": "ingredients",
+        "ingredient": "raisins  \u00a0\u00a0\n                                                                                                                     ",
+        "seasonal": false
+    },
+    {
+        "location": "Chicago",
+        "ingredient_type": "ingredients",
+        "ingredient": "basil  \u00a0\u00a0\n                                                                                                                     ",
+        "seasonal": false
+    },
+    {
+        "location": "Chicago",
+        "ingredient_type": "ingredients",
+        "ingredient": "raw beets  \u00a0\u00a0\n                                                                                                                     ",
+        "seasonal": false
+    },
+    {
+        "location": "Chicago",
+        "ingredient_type": "ingredients",
+        "ingredient": "red onion  \u00a0\u00a0\n                                                                                                                     ",
+        "seasonal": false
+    },
+    {
+        "location": "Chicago",
+        "ingredient_type": "ingredients",
+        "ingredient": "tomatoes  \u00a0\u00a0\n                                                                                                                     ",
+        "seasonal": false
+    },
+    {
+        "location": "Chicago",
+        "ingredient_type": "ingredients",
+        "ingredient": "organic carrots  \u00a0\u00a0\n                                                                                                                     ",
+        "seasonal": false
+    },
+    {
+        "location": "Chicago",
+        "ingredient_type": "ingredients",
+        "ingredient": "cucumbers  \u00a0\u00a0\n                                                                                                                     ",
+        "seasonal": false
+    },
+    {
+        "location": "Chicago",
+        "ingredient_type": "ingredients",
+        "ingredient": "hot chickpeas  \u00a0\u00a0\n                                                                                                                     ",
+        "seasonal": false
+    },
+    {
+        "location": "Chicago",
+        "ingredient_type": "ingredients",
+        "ingredient": "shredded cabbage  \u00a0\u00a0\n                                                                                                                     ",
+        "seasonal": false
+    },
+    {
+        "location": "Chicago",
+        "ingredient_type": "ingredients",
+        "ingredient": "spicy broccoli  \u00a0\u00a0\n                                                                                                                     ",
+        "seasonal": false
+    },
+    {
+        "location": "Chicago",
+        "ingredient_type": "ingredients",
+        "ingredient": "raw corn  \u00a0\u00a0\n                                                                                                                     ",
+        "seasonal": false
+    },
+    {
+        "location": "Chicago",
+        "ingredient_type": "ingredients",
+        "ingredient": "local apples  \u00a0\u00a0\n                                                                                                                     ",
+        "seasonal": false
+    },
+    {
+        "location": "Chicago",
+        "ingredient_type": "ingredients",
+        "ingredient": "roasted sweet potatoes  \u00a0\u00a0\n                                                                                                                     ",
+        "seasonal": false
+    },
+    {
+        "location": "Chicago",
+        "ingredient_type": "ingredients",
+        "ingredient": "tortilla chips  \u00a0\u00a0\n                                                                                                                     ",
+        "seasonal": false
+    },
+    {
+        "location": "Chicago",
+        "ingredient_type": "ingredients",
+        "ingredient": "spicy sunflower seeds  \u00a0\u00a0\n                                                                                                                     ",
+        "seasonal": false
+    },
+    {
+        "location": "Chicago",
+        "ingredient_type": "ingredients",
+        "ingredient": "toasted almonds  \u00a0\u00a0\n                                                                                                                     ",
+        "seasonal": false
+    },
+    {
+        "location": "Chicago",
+        "ingredient_type": "ingredients",
+        "ingredient": "za'atar breadcrumbs*  \u00a0\u00a0\n                                                                                                                                                                                                                                                                                                                ",
+        "seasonal": false
+    },
+    {
+        "location": "Chicago",
+        "ingredient_type": "premiums",
+        "ingredient": "Blackened Chicken Thighs  \u00a0\u00a0\n                                                                                                                                                                                                                                                                                                                ",
+        "seasonal": true
+    },
+    {
+        "location": "Chicago",
+        "ingredient_type": "premiums",
+        "ingredient": "Balsamic Roasted Squash  \u00a0\u00a0\n                                                                                                                                                                                                                                                                                                                ",
+        "seasonal": true
+    },
+    {
+        "location": "Chicago",
+        "ingredient_type": "premiums",
+        "ingredient": "Miso-Glazed Root Vegetables  \u00a0\u00a0\n                                                                                                                                                                                                 \n",
+        "seasonal": true
+    },
+    {
+        "location": "Chicago",
+        "ingredient_type": "premiums",
+        "ingredient": "Pickled Carrots + Celery  \u00a0\u00a0\n                                                                                                                                                                                                 \n",
+        "seasonal": true
+    },
+    {
+        "location": "Chicago",
+        "ingredient_type": "premiums",
+        "ingredient": "Blue Cheese  \u00a0\u00a0\n                                                                                                                                                                                                                                                                                                                ",
+        "seasonal": true
+    },
+    {
+        "location": "Chicago",
+        "ingredient_type": "premiums",
+        "ingredient": "organic Salami  \u00a0\u00a0\n                                                                                                                     ",
+        "seasonal": false
+    },
+    {
+        "location": "Chicago",
+        "ingredient_type": "premiums",
+        "ingredient": "roasted steelhead  \u00a0\u00a0\n                                                                                                                     ",
+        "seasonal": false
+    },
+    {
+        "location": "Chicago",
+        "ingredient_type": "premiums",
+        "ingredient": "roasted chicken  \u00a0\u00a0\n                                                                                                                     ",
+        "seasonal": false
+    },
+    {
+        "location": "Chicago",
+        "ingredient_type": "premiums",
+        "ingredient": "warm portobello mix  \u00a0\u00a0\n                                                                                                                                                                                                 \n",
+        "seasonal": false
+    },
+    {
+        "location": "Chicago",
+        "ingredient_type": "premiums",
+        "ingredient": "herb falafel  \u00a0\u00a0\n                                                                                                                                                                                                 \n",
+        "seasonal": false
+    },
+    {
+        "location": "Chicago",
+        "ingredient_type": "premiums",
+        "ingredient": "roasted sesame tofu  \u00a0\u00a0\n                                                                                                                                                                                                 \n",
+        "seasonal": false
+    },
+    {
+        "location": "Chicago",
+        "ingredient_type": "premiums",
+        "ingredient": "avocado  \u00a0\u00a0\n                                                                                                                                                                                                 \n",
+        "seasonal": false
+    },
+    {
+        "location": "Chicago",
+        "ingredient_type": "premiums",
+        "ingredient": "hard-boiled egg  \u00a0\u00a0\n                                                                                                                     ",
+        "seasonal": false
+    },
+    {
+        "location": "Chicago",
+        "ingredient_type": "premiums",
+        "ingredient": "housemade hummus  \u00a0\u00a0\n                                                                                                                                                                                                 \n",
+        "seasonal": false
+    },
+    {
+        "location": "Chicago",
+        "ingredient_type": "premiums",
+        "ingredient": "local goat cheese  \u00a0\u00a0\n                                                                                                                     ",
+        "seasonal": false
+    },
+    {
+        "location": "Chicago",
+        "ingredient_type": "premiums",
+        "ingredient": "local feta cheese  \u00a0\u00a0\n                                                                                                                     ",
+        "seasonal": false
+    },
+    {
+        "location": "Chicago",
+        "ingredient_type": "premiums",
+        "ingredient": "shaved parmesan  \u00a0\u00a0\n                                                                                                                     ",
+        "seasonal": false
+    },
+    {
+        "location": "Chicago",
+        "ingredient_type": "premiums",
+        "ingredient": "parmesan crisps  \u00a0\u00a0\n                                                                                                                     ",
+        "seasonal": false
+    },
+    {
+        "location": "Chicago",
+        "ingredient_type": "dressings",
+        "ingredient": "Maple Mustard Vinaigrette  \u00a0\u00a0\n                                                                                                                                                                                                 \n",
+        "seasonal": true
+    },
+    {
+        "location": "Chicago",
+        "ingredient_type": "dressings",
+        "ingredient": "curry yogurt dressing  \u00a0\u00a0\n                                                                                                                     ",
+        "seasonal": false
+    },
+    {
+        "location": "Chicago",
+        "ingredient_type": "dressings",
+        "ingredient": "lime cilantro jalape\u00f1o vinaigrette  \u00a0\u00a0\n                                                                                                                                                                                                 \n",
+        "seasonal": false
+    },
+    {
+        "location": "Chicago",
+        "ingredient_type": "dressings",
+        "ingredient": "miso sesame ginger vinaigrette  \u00a0\u00a0\n                                                                                                                                                                                                 \n",
+        "seasonal": false
+    },
+    {
+        "location": "Chicago",
+        "ingredient_type": "dressings",
+        "ingredient": "pesto vinaigrette  \u00a0\u00a0\n                                                                                                                                                                                                 \n",
+        "seasonal": false
+    },
+    {
+        "location": "Chicago",
+        "ingredient_type": "dressings",
+        "ingredient": "spicy cashew dressing  \u00a0\u00a0\n                                                                                                                                                                                                 \n",
+        "seasonal": false
+    },
+    {
+        "location": "Chicago",
+        "ingredient_type": "dressings",
+        "ingredient": "sweetgreen hot sauce  \u00a0\u00a0\n                                                                                                                                                                                                 \n",
+        "seasonal": false
+    },
+    {
+        "location": "Chicago",
+        "ingredient_type": "dressings",
+        "ingredient": "balsamic vinaigrette  \u00a0\u00a0\n                                                                                                                     ",
+        "seasonal": false
+    },
+    {
+        "location": "Chicago",
+        "ingredient_type": "dressings",
+        "ingredient": "cucumber tahini yogurt dressing  \u00a0\u00a0\n                                                                                                                     ",
+        "seasonal": false
+    },
+    {
+        "location": "Chicago",
+        "ingredient_type": "dressings",
+        "ingredient": "caesar dressing  \u00a0\u00a0\n                                                                                                                     ",
+        "seasonal": false
+    },
+    {
+        "location": "Chicago",
+        "ingredient_type": "dressings",
+        "ingredient": "extra virgin olive oil  \u00a0\u00a0\n                                                                                                                                                                                                 \n",
+        "seasonal": false
+    },
+    {
+        "location": "Chicago",
+        "ingredient_type": "dressings",
+        "ingredient": "balsamic vinegar  \u00a0\u00a0\n                                                                                                                                                                                                 \n",
+        "seasonal": false
+    },
+    {
+        "location": "Chicago",
+        "ingredient_type": "dressings",
+        "ingredient": "fresh lime squeeze  \u00a0\u00a0\n                                                                                                                                                                                                 \n",
+        "seasonal": false
+    },
+    {
+        "location": "Chicago",
+        "ingredient_type": "dressings",
+        "ingredient": "fresh lemon squeeze  \u00a0\u00a0\n                                                                                                                                                                                                 \n",
+        "seasonal": false
+    },
+    {
+        "location": "Chicago",
+        "ingredient_type": "dressings",
+        "ingredient": "red chili  \u00a0\u00a0\n                                                                                                                     ",
+        "seasonal": false
+    },
+    {
+        "location": "Bay-Area",
+        "ingredient_type": "bases",
+        "ingredient": "organic mesclun  \u00a0\u00a0\n                                                                                                                     ",
+        "seasonal": false
+    },
+    {
+        "location": "Bay-Area",
+        "ingredient_type": "bases",
+        "ingredient": "organic arugula  \u00a0\u00a0\n                                                                                                                     ",
+        "seasonal": false
+    },
+    {
+        "location": "Bay-Area",
+        "ingredient_type": "bases",
+        "ingredient": "organic baby spinach  \u00a0\u00a0\n                                                                                                                     ",
+        "seasonal": false
+    },
+    {
+        "location": "Bay-Area",
+        "ingredient_type": "bases",
+        "ingredient": "shredded kale  \u00a0\u00a0\n                                                                                                                     ",
+        "seasonal": false
+    },
+    {
+        "location": "Bay-Area",
+        "ingredient_type": "bases",
+        "ingredient": "chopped romaine  \u00a0\u00a0\n                                                                                                                     ",
+        "seasonal": false
+    },
+    {
+        "location": "Bay-Area",
+        "ingredient_type": "bases",
+        "ingredient": "warm quinoa  \u00a0\u00a0\n                                                                                                                     ",
+        "seasonal": false
+    },
+    {
+        "location": "Bay-Area",
+        "ingredient_type": "bases",
+        "ingredient": "organic wild rice   \u00a0\u00a0\n                                                                                                                     ",
+        "seasonal": false
+    },
+    {
+        "location": "Bay-Area",
+        "ingredient_type": "ingredients",
+        "ingredient": "Caramelized Onions + Leeks  \u00a0\u00a0\n                                                                                                                                                                                                                                                                                                                ",
+        "seasonal": true
+    },
+    {
+        "location": "Bay-Area",
+        "ingredient_type": "ingredients",
+        "ingredient": "Badger Flame Beets  \u00a0\u00a0\n                                                                                                                                                                                                                                                                                                                ",
+        "seasonal": true
+    },
+    {
+        "location": "Bay-Area",
+        "ingredient_type": "ingredients",
+        "ingredient": "cilantro  \u00a0\u00a0\n                                                                                                                     ",
+        "seasonal": false
+    },
+    {
+        "location": "Bay-Area",
+        "ingredient_type": "ingredients",
+        "ingredient": "raisins  \u00a0\u00a0\n                                                                                                                     ",
+        "seasonal": false
+    },
+    {
+        "location": "Bay-Area",
+        "ingredient_type": "ingredients",
+        "ingredient": "basil  \u00a0\u00a0\n                                                                                                                     ",
+        "seasonal": false
+    },
+    {
+        "location": "Bay-Area",
+        "ingredient_type": "ingredients",
+        "ingredient": "raw beets  \u00a0\u00a0\n                                                                                                                     ",
+        "seasonal": false
+    },
+    {
+        "location": "Bay-Area",
+        "ingredient_type": "ingredients",
+        "ingredient": "red onion  \u00a0\u00a0\n                                                                                                                     ",
+        "seasonal": false
+    },
+    {
+        "location": "Bay-Area",
+        "ingredient_type": "ingredients",
+        "ingredient": "tomatoes  \u00a0\u00a0\n                                                                                                                     ",
+        "seasonal": false
+    },
+    {
+        "location": "Bay-Area",
+        "ingredient_type": "ingredients",
+        "ingredient": "organic carrots  \u00a0\u00a0\n                                                                                                                     ",
+        "seasonal": false
+    },
+    {
+        "location": "Bay-Area",
+        "ingredient_type": "ingredients",
+        "ingredient": "cucumbers  \u00a0\u00a0\n                                                                                                                     ",
+        "seasonal": false
+    },
+    {
+        "location": "Bay-Area",
+        "ingredient_type": "ingredients",
+        "ingredient": "hot chickpeas  \u00a0\u00a0\n                                                                                                                     ",
+        "seasonal": false
+    },
+    {
+        "location": "Bay-Area",
+        "ingredient_type": "ingredients",
+        "ingredient": "shredded cabbage  \u00a0\u00a0\n                                                                                                                     ",
+        "seasonal": false
+    },
+    {
+        "location": "Bay-Area",
+        "ingredient_type": "ingredients",
+        "ingredient": "spicy broccoli  \u00a0\u00a0\n                                                                                                                     ",
+        "seasonal": false
+    },
+    {
+        "location": "Bay-Area",
+        "ingredient_type": "ingredients",
+        "ingredient": "raw corn  \u00a0\u00a0\n                                                                                                                     ",
+        "seasonal": false
+    },
+    {
+        "location": "Bay-Area",
+        "ingredient_type": "ingredients",
+        "ingredient": "local apples  \u00a0\u00a0\n                                                                                                                     ",
+        "seasonal": false
+    },
+    {
+        "location": "Bay-Area",
+        "ingredient_type": "ingredients",
+        "ingredient": "roasted sweet potatoes  \u00a0\u00a0\n                                                                                                                     ",
+        "seasonal": false
+    },
+    {
+        "location": "Bay-Area",
+        "ingredient_type": "ingredients",
+        "ingredient": "tortilla chips  \u00a0\u00a0\n                                                                                                                     ",
+        "seasonal": false
+    },
+    {
+        "location": "Bay-Area",
+        "ingredient_type": "ingredients",
+        "ingredient": "spicy sunflower seeds  \u00a0\u00a0\n                                                                                                                     ",
+        "seasonal": false
+    },
+    {
+        "location": "Bay-Area",
+        "ingredient_type": "ingredients",
+        "ingredient": "toasted almonds  \u00a0\u00a0\n                                                                                                                     ",
+        "seasonal": false
+    },
+    {
+        "location": "Bay-Area",
+        "ingredient_type": "ingredients",
+        "ingredient": "za'atar breadcrumbs*  \u00a0\u00a0\n                                                                                                                                                                                                                                                                                                                ",
+        "seasonal": false
+    },
+    {
+        "location": "Bay-Area",
+        "ingredient_type": "premiums",
+        "ingredient": "Blackened Chicken Thighs  \u00a0\u00a0\n                                                                                                                                                                                                                                                                                                                ",
+        "seasonal": true
+    },
+    {
+        "location": "Bay-Area",
+        "ingredient_type": "premiums",
+        "ingredient": "Balsamic Roasted Squash  \u00a0\u00a0\n                                                                                                                                                                                                                                                                                                                ",
+        "seasonal": true
+    },
+    {
+        "location": "Bay-Area",
+        "ingredient_type": "premiums",
+        "ingredient": "Miso-Glazed Root Vegetables  \u00a0\u00a0\n                                                                                                                                                                                                 \n",
+        "seasonal": true
+    },
+    {
+        "location": "Bay-Area",
+        "ingredient_type": "premiums",
+        "ingredient": "Pickled Carrots + Celery  \u00a0\u00a0\n                                                                                                                                                                                                 \n",
+        "seasonal": true
+    },
+    {
+        "location": "Bay-Area",
+        "ingredient_type": "premiums",
+        "ingredient": "Blue Cheese  \u00a0\u00a0\n                                                                                                                                                                                                                                                                                                                ",
+        "seasonal": true
+    },
+    {
+        "location": "Bay-Area",
+        "ingredient_type": "premiums",
+        "ingredient": "organic Salami  \u00a0\u00a0\n                                                                                                                     ",
+        "seasonal": false
+    },
+    {
+        "location": "Bay-Area",
+        "ingredient_type": "premiums",
+        "ingredient": "roasted steelhead  \u00a0\u00a0\n                                                                                                                     ",
+        "seasonal": false
+    },
+    {
+        "location": "Bay-Area",
+        "ingredient_type": "premiums",
+        "ingredient": "roasted chicken  \u00a0\u00a0\n                                                                                                                     ",
+        "seasonal": false
+    },
+    {
+        "location": "Bay-Area",
+        "ingredient_type": "premiums",
+        "ingredient": "warm portobello mix  \u00a0\u00a0\n                                                                                                                                                                                                 \n",
+        "seasonal": false
+    },
+    {
+        "location": "Bay-Area",
+        "ingredient_type": "premiums",
+        "ingredient": "herb falafel  \u00a0\u00a0\n                                                                                                                                                                                                 \n",
+        "seasonal": false
+    },
+    {
+        "location": "Bay-Area",
+        "ingredient_type": "premiums",
+        "ingredient": "roasted sesame tofu  \u00a0\u00a0\n                                                                                                                                                                                                 \n",
+        "seasonal": false
+    },
+    {
+        "location": "Bay-Area",
+        "ingredient_type": "premiums",
+        "ingredient": "avocado  \u00a0\u00a0\n                                                                                                                                                                                                 \n",
+        "seasonal": false
+    },
+    {
+        "location": "Bay-Area",
+        "ingredient_type": "premiums",
+        "ingredient": "hard-boiled egg  \u00a0\u00a0\n                                                                                                                     ",
+        "seasonal": false
+    },
+    {
+        "location": "Bay-Area",
+        "ingredient_type": "premiums",
+        "ingredient": "housemade hummus  \u00a0\u00a0\n                                                                                                                                                                                                 \n",
+        "seasonal": false
+    },
+    {
+        "location": "Bay-Area",
+        "ingredient_type": "premiums",
+        "ingredient": "local goat cheese  \u00a0\u00a0\n                                                                                                                     ",
+        "seasonal": false
+    },
+    {
+        "location": "Bay-Area",
+        "ingredient_type": "premiums",
+        "ingredient": "local feta cheese  \u00a0\u00a0\n                                                                                                                     ",
+        "seasonal": false
+    },
+    {
+        "location": "Bay-Area",
+        "ingredient_type": "premiums",
+        "ingredient": "shaved parmesan  \u00a0\u00a0\n                                                                                                                     ",
+        "seasonal": false
+    },
+    {
+        "location": "Bay-Area",
+        "ingredient_type": "premiums",
+        "ingredient": "parmesan crisps  \u00a0\u00a0\n                                                                                                                     ",
+        "seasonal": false
+    },
+    {
+        "location": "Bay-Area",
+        "ingredient_type": "dressings",
+        "ingredient": "Maple Mustard Vinaigrette  \u00a0\u00a0\n                                                                                                                                                                                                 \n",
+        "seasonal": true
+    },
+    {
+        "location": "Bay-Area",
+        "ingredient_type": "dressings",
+        "ingredient": "curry yogurt dressing  \u00a0\u00a0\n                                                                                                                     ",
+        "seasonal": false
+    },
+    {
+        "location": "Bay-Area",
+        "ingredient_type": "dressings",
+        "ingredient": "lime cilantro jalape\u00f1o vinaigrette  \u00a0\u00a0\n                                                                                                                                                                                                 \n",
+        "seasonal": false
+    },
+    {
+        "location": "Bay-Area",
+        "ingredient_type": "dressings",
+        "ingredient": "miso sesame ginger vinaigrette  \u00a0\u00a0\n                                                                                                                                                                                                 \n",
+        "seasonal": false
+    },
+    {
+        "location": "Bay-Area",
+        "ingredient_type": "dressings",
+        "ingredient": "pesto vinaigrette  \u00a0\u00a0\n                                                                                                                                                                                                 \n",
+        "seasonal": false
+    },
+    {
+        "location": "Bay-Area",
+        "ingredient_type": "dressings",
+        "ingredient": "spicy cashew dressing  \u00a0\u00a0\n                                                                                                                                                                                                 \n",
+        "seasonal": false
+    },
+    {
+        "location": "Bay-Area",
+        "ingredient_type": "dressings",
+        "ingredient": "sweetgreen hot sauce  \u00a0\u00a0\n                                                                                                                                                                                                 \n",
+        "seasonal": false
+    },
+    {
+        "location": "Bay-Area",
+        "ingredient_type": "dressings",
+        "ingredient": "balsamic vinaigrette  \u00a0\u00a0\n                                                                                                                     ",
+        "seasonal": false
+    },
+    {
+        "location": "Bay-Area",
+        "ingredient_type": "dressings",
+        "ingredient": "cucumber tahini yogurt dressing  \u00a0\u00a0\n                                                                                                                     ",
+        "seasonal": false
+    },
+    {
+        "location": "Bay-Area",
+        "ingredient_type": "dressings",
+        "ingredient": "caesar dressing  \u00a0\u00a0\n                                                                                                                     ",
+        "seasonal": false
+    },
+    {
+        "location": "Bay-Area",
+        "ingredient_type": "dressings",
+        "ingredient": "extra virgin olive oil  \u00a0\u00a0\n                                                                                                                                                                                                 \n",
+        "seasonal": false
+    },
+    {
+        "location": "Bay-Area",
+        "ingredient_type": "dressings",
+        "ingredient": "balsamic vinegar  \u00a0\u00a0\n                                                                                                                                                                                                 \n",
+        "seasonal": false
+    },
+    {
+        "location": "Bay-Area",
+        "ingredient_type": "dressings",
+        "ingredient": "fresh lime squeeze  \u00a0\u00a0\n                                                                                                                                                                                                 \n",
+        "seasonal": false
+    },
+    {
+        "location": "Bay-Area",
+        "ingredient_type": "dressings",
+        "ingredient": "fresh lemon squeeze  \u00a0\u00a0\n                                                                                                                                                                                                 \n",
+        "seasonal": false
+    },
+    {
+        "location": "Bay-Area",
+        "ingredient_type": "dressings",
+        "ingredient": "red chili  \u00a0\u00a0\n                                                                                                                     ",
+        "seasonal": false
+    },
+    {
+        "location": "new-york",
+        "ingredient_type": "bases",
+        "ingredient": "organic mesclun  \u00a0\u00a0\n                                                                                                                     ",
+        "seasonal": false
+    },
+    {
+        "location": "new-york",
+        "ingredient_type": "bases",
+        "ingredient": "organic arugula  \u00a0\u00a0\n                                                                                                                     ",
+        "seasonal": false
+    },
+    {
+        "location": "new-york",
+        "ingredient_type": "bases",
+        "ingredient": "organic baby spinach  \u00a0\u00a0\n                                                                                                                     ",
+        "seasonal": false
+    },
+    {
+        "location": "new-york",
+        "ingredient_type": "bases",
+        "ingredient": "shredded kale  \u00a0\u00a0\n                                                                                                                     ",
+        "seasonal": false
+    },
+    {
+        "location": "new-york",
+        "ingredient_type": "bases",
+        "ingredient": "chopped romaine  \u00a0\u00a0\n                                                                                                                     ",
+        "seasonal": false
+    },
+    {
+        "location": "new-york",
+        "ingredient_type": "bases",
+        "ingredient": "warm quinoa  \u00a0\u00a0\n                                                                                                                     ",
+        "seasonal": false
+    },
+    {
+        "location": "new-york",
+        "ingredient_type": "bases",
+        "ingredient": "organic wild rice   \u00a0\u00a0\n                                                                                                                     ",
+        "seasonal": false
+    },
+    {
+        "location": "new-york",
+        "ingredient_type": "ingredients",
+        "ingredient": "Caramelized Onions + Leeks  \u00a0\u00a0\n                                                                                                                                                                                                                                                                                                                ",
+        "seasonal": true
+    },
+    {
+        "location": "new-york",
+        "ingredient_type": "ingredients",
+        "ingredient": "Badger Flame Beets  \u00a0\u00a0\n                                                                                                                                                                                                                                                                                                                ",
+        "seasonal": true
+    },
+    {
+        "location": "new-york",
+        "ingredient_type": "ingredients",
+        "ingredient": "cilantro  \u00a0\u00a0\n                                                                                                                     ",
+        "seasonal": false
+    },
+    {
+        "location": "new-york",
+        "ingredient_type": "ingredients",
+        "ingredient": "raisins  \u00a0\u00a0\n                                                                                                                     ",
+        "seasonal": false
+    },
+    {
+        "location": "new-york",
+        "ingredient_type": "ingredients",
+        "ingredient": "basil  \u00a0\u00a0\n                                                                                                                     ",
+        "seasonal": false
+    },
+    {
+        "location": "new-york",
+        "ingredient_type": "ingredients",
+        "ingredient": "raw beets  \u00a0\u00a0\n                                                                                                                     ",
+        "seasonal": false
+    },
+    {
+        "location": "new-york",
+        "ingredient_type": "ingredients",
+        "ingredient": "red onion  \u00a0\u00a0\n                                                                                                                     ",
+        "seasonal": false
+    },
+    {
+        "location": "new-york",
+        "ingredient_type": "ingredients",
+        "ingredient": "tomatoes  \u00a0\u00a0\n                                                                                                                     ",
+        "seasonal": false
+    },
+    {
+        "location": "new-york",
+        "ingredient_type": "ingredients",
+        "ingredient": "organic carrots  \u00a0\u00a0\n                                                                                                                     ",
+        "seasonal": false
+    },
+    {
+        "location": "new-york",
+        "ingredient_type": "ingredients",
+        "ingredient": "cucumbers  \u00a0\u00a0\n                                                                                                                     ",
+        "seasonal": false
+    },
+    {
+        "location": "new-york",
+        "ingredient_type": "ingredients",
+        "ingredient": "hot chickpeas  \u00a0\u00a0\n                                                                                                                     ",
+        "seasonal": false
+    },
+    {
+        "location": "new-york",
+        "ingredient_type": "ingredients",
+        "ingredient": "shredded cabbage  \u00a0\u00a0\n                                                                                                                     ",
+        "seasonal": false
+    },
+    {
+        "location": "new-york",
+        "ingredient_type": "ingredients",
+        "ingredient": "spicy broccoli  \u00a0\u00a0\n                                                                                                                     ",
+        "seasonal": false
+    },
+    {
+        "location": "new-york",
+        "ingredient_type": "ingredients",
+        "ingredient": "raw corn  \u00a0\u00a0\n                                                                                                                     ",
+        "seasonal": false
+    },
+    {
+        "location": "new-york",
+        "ingredient_type": "ingredients",
+        "ingredient": "local apples  \u00a0\u00a0\n                                                                                                                     ",
+        "seasonal": false
+    },
+    {
+        "location": "new-york",
+        "ingredient_type": "ingredients",
+        "ingredient": "roasted sweet potatoes  \u00a0\u00a0\n                                                                                                                     ",
+        "seasonal": false
+    },
+    {
+        "location": "new-york",
+        "ingredient_type": "ingredients",
+        "ingredient": "tortilla chips  \u00a0\u00a0\n                                                                                                                     ",
+        "seasonal": false
+    },
+    {
+        "location": "new-york",
+        "ingredient_type": "ingredients",
+        "ingredient": "spicy sunflower seeds  \u00a0\u00a0\n                                                                                                                     ",
+        "seasonal": false
+    },
+    {
+        "location": "new-york",
+        "ingredient_type": "ingredients",
+        "ingredient": "toasted almonds  \u00a0\u00a0\n                                                                                                                     ",
+        "seasonal": false
+    },
+    {
+        "location": "new-york",
+        "ingredient_type": "ingredients",
+        "ingredient": "za'atar breadcrumbs*  \u00a0\u00a0\n                                                                                                                                                                                                                                                                                                                ",
+        "seasonal": false
+    },
+    {
+        "location": "new-york",
+        "ingredient_type": "premiums",
+        "ingredient": "Blackened Chicken Thighs  \u00a0\u00a0\n                                                                                                                                                                                                                                                                                                                ",
+        "seasonal": true
+    },
+    {
+        "location": "new-york",
+        "ingredient_type": "premiums",
+        "ingredient": "Balsamic Roasted Squash  \u00a0\u00a0\n                                                                                                                                                                                                                                                                                                                ",
+        "seasonal": true
+    },
+    {
+        "location": "new-york",
+        "ingredient_type": "premiums",
+        "ingredient": "Miso-Glazed Root Vegetables  \u00a0\u00a0\n                                                                                                                                                                                                 \n",
+        "seasonal": true
+    },
+    {
+        "location": "new-york",
+        "ingredient_type": "premiums",
+        "ingredient": "Pickled Carrots + Celery  \u00a0\u00a0\n                                                                                                                                                                                                 \n",
+        "seasonal": true
+    },
+    {
+        "location": "new-york",
+        "ingredient_type": "premiums",
+        "ingredient": "Blue Cheese  \u00a0\u00a0\n                                                                                                                                                                                                                                                                                                                ",
+        "seasonal": true
+    },
+    {
+        "location": "new-york",
+        "ingredient_type": "premiums",
+        "ingredient": "organic Salami  \u00a0\u00a0\n                                                                                                                     ",
+        "seasonal": false
+    },
+    {
+        "location": "new-york",
+        "ingredient_type": "premiums",
+        "ingredient": "roasted steelhead  \u00a0\u00a0\n                                                                                                                     ",
+        "seasonal": false
+    },
+    {
+        "location": "new-york",
+        "ingredient_type": "premiums",
+        "ingredient": "roasted chicken  \u00a0\u00a0\n                                                                                                                     ",
+        "seasonal": false
+    },
+    {
+        "location": "new-york",
+        "ingredient_type": "premiums",
+        "ingredient": "warm portobello mix  \u00a0\u00a0\n                                                                                                                                                                                                 \n",
+        "seasonal": false
+    },
+    {
+        "location": "new-york",
+        "ingredient_type": "premiums",
+        "ingredient": "herb falafel  \u00a0\u00a0\n                                                                                                                                                                                                 \n",
+        "seasonal": false
+    },
+    {
+        "location": "new-york",
+        "ingredient_type": "premiums",
+        "ingredient": "roasted sesame tofu  \u00a0\u00a0\n                                                                                                                                                                                                 \n",
+        "seasonal": false
+    },
+    {
+        "location": "new-york",
+        "ingredient_type": "premiums",
+        "ingredient": "avocado  \u00a0\u00a0\n                                                                                                                                                                                                 \n",
+        "seasonal": false
+    },
+    {
+        "location": "new-york",
+        "ingredient_type": "premiums",
+        "ingredient": "hard-boiled egg  \u00a0\u00a0\n                                                                                                                     ",
+        "seasonal": false
+    },
+    {
+        "location": "new-york",
+        "ingredient_type": "premiums",
+        "ingredient": "housemade hummus  \u00a0\u00a0\n                                                                                                                                                                                                 \n",
+        "seasonal": false
+    },
+    {
+        "location": "new-york",
+        "ingredient_type": "premiums",
+        "ingredient": "local goat cheese  \u00a0\u00a0\n                                                                                                                     ",
+        "seasonal": false
+    },
+    {
+        "location": "new-york",
+        "ingredient_type": "premiums",
+        "ingredient": "local feta cheese  \u00a0\u00a0\n                                                                                                                     ",
+        "seasonal": false
+    },
+    {
+        "location": "new-york",
+        "ingredient_type": "premiums",
+        "ingredient": "shaved parmesan  \u00a0\u00a0\n                                                                                                                     ",
+        "seasonal": false
+    },
+    {
+        "location": "new-york",
+        "ingredient_type": "premiums",
+        "ingredient": "parmesan crisps  \u00a0\u00a0\n                                                                                                                     ",
+        "seasonal": false
+    },
+    {
+        "location": "new-york",
+        "ingredient_type": "dressings",
+        "ingredient": "Maple Mustard Vinaigrette  \u00a0\u00a0\n                                                                                                                                                                                                 \n",
+        "seasonal": true
+    },
+    {
+        "location": "new-york",
+        "ingredient_type": "dressings",
+        "ingredient": "curry yogurt dressing  \u00a0\u00a0\n                                                                                                                     ",
+        "seasonal": false
+    },
+    {
+        "location": "new-york",
+        "ingredient_type": "dressings",
+        "ingredient": "lime cilantro jalape\u00f1o vinaigrette  \u00a0\u00a0\n                                                                                                                                                                                                 \n",
+        "seasonal": false
+    },
+    {
+        "location": "new-york",
+        "ingredient_type": "dressings",
+        "ingredient": "miso sesame ginger vinaigrette  \u00a0\u00a0\n                                                                                                                                                                                                 \n",
+        "seasonal": false
+    },
+    {
+        "location": "new-york",
+        "ingredient_type": "dressings",
+        "ingredient": "pesto vinaigrette  \u00a0\u00a0\n                                                                                                                                                                                                 \n",
+        "seasonal": false
+    },
+    {
+        "location": "new-york",
+        "ingredient_type": "dressings",
+        "ingredient": "spicy cashew dressing  \u00a0\u00a0\n                                                                                                                                                                                                 \n",
+        "seasonal": false
+    },
+    {
+        "location": "new-york",
+        "ingredient_type": "dressings",
+        "ingredient": "sweetgreen hot sauce  \u00a0\u00a0\n                                                                                                                                                                                                 \n",
+        "seasonal": false
+    },
+    {
+        "location": "new-york",
+        "ingredient_type": "dressings",
+        "ingredient": "balsamic vinaigrette  \u00a0\u00a0\n                                                                                                                     ",
+        "seasonal": false
+    },
+    {
+        "location": "new-york",
+        "ingredient_type": "dressings",
+        "ingredient": "cucumber tahini yogurt dressing  \u00a0\u00a0\n                                                                                                                     ",
+        "seasonal": false
+    },
+    {
+        "location": "new-york",
+        "ingredient_type": "dressings",
+        "ingredient": "caesar dressing  \u00a0\u00a0\n                                                                                                                     ",
+        "seasonal": false
+    },
+    {
+        "location": "new-york",
+        "ingredient_type": "dressings",
+        "ingredient": "extra virgin olive oil  \u00a0\u00a0\n                                                                                                                                                                                                 \n",
+        "seasonal": false
+    },
+    {
+        "location": "new-york",
+        "ingredient_type": "dressings",
+        "ingredient": "balsamic vinegar  \u00a0\u00a0\n                                                                                                                                                                                                 \n",
+        "seasonal": false
+    },
+    {
+        "location": "new-york",
+        "ingredient_type": "dressings",
+        "ingredient": "fresh lime squeeze  \u00a0\u00a0\n                                                                                                                                                                                                 \n",
+        "seasonal": false
+    },
+    {
+        "location": "new-york",
+        "ingredient_type": "dressings",
+        "ingredient": "fresh lemon squeeze  \u00a0\u00a0\n                                                                                                                                                                                                 \n",
+        "seasonal": false
+    },
+    {
+        "location": "new-york",
+        "ingredient_type": "dressings",
+        "ingredient": "red chili  \u00a0\u00a0\n                                                                                                                     ",
+        "seasonal": false
+    },
+    {
+        "location": "philadelpha",
+        "ingredient_type": "bases",
+        "ingredient": "organic mesclun  \u00a0\u00a0\n                                                                                                                     ",
+        "seasonal": false
+    },
+    {
+        "location": "philadelpha",
+        "ingredient_type": "bases",
+        "ingredient": "organic arugula  \u00a0\u00a0\n                                                                                                                     ",
+        "seasonal": false
+    },
+    {
+        "location": "philadelpha",
+        "ingredient_type": "bases",
+        "ingredient": "organic baby spinach  \u00a0\u00a0\n                                                                                                                     ",
+        "seasonal": false
+    },
+    {
+        "location": "philadelpha",
+        "ingredient_type": "bases",
+        "ingredient": "shredded kale  \u00a0\u00a0\n                                                                                                                     ",
+        "seasonal": false
+    },
+    {
+        "location": "philadelpha",
+        "ingredient_type": "bases",
+        "ingredient": "chopped romaine  \u00a0\u00a0\n                                                                                                                     ",
+        "seasonal": false
+    },
+    {
+        "location": "philadelpha",
+        "ingredient_type": "bases",
+        "ingredient": "warm quinoa  \u00a0\u00a0\n                                                                                                                     ",
+        "seasonal": false
+    },
+    {
+        "location": "philadelpha",
+        "ingredient_type": "bases",
+        "ingredient": "organic wild rice   \u00a0\u00a0\n                                                                                                                     ",
+        "seasonal": false
+    },
+    {
+        "location": "philadelpha",
+        "ingredient_type": "ingredients",
+        "ingredient": "Caramelized Onions + Leeks  \u00a0\u00a0\n                                                                                                                                                                                                                                                                                                                ",
+        "seasonal": true
+    },
+    {
+        "location": "philadelpha",
+        "ingredient_type": "ingredients",
+        "ingredient": "Badger Flame Beets  \u00a0\u00a0\n                                                                                                                                                                                                                                                                                                                ",
+        "seasonal": true
+    },
+    {
+        "location": "philadelpha",
+        "ingredient_type": "ingredients",
+        "ingredient": "cilantro  \u00a0\u00a0\n                                                                                                                     ",
+        "seasonal": false
+    },
+    {
+        "location": "philadelpha",
+        "ingredient_type": "ingredients",
+        "ingredient": "raisins  \u00a0\u00a0\n                                                                                                                     ",
+        "seasonal": false
+    },
+    {
+        "location": "philadelpha",
+        "ingredient_type": "ingredients",
+        "ingredient": "basil  \u00a0\u00a0\n                                                                                                                     ",
+        "seasonal": false
+    },
+    {
+        "location": "philadelpha",
+        "ingredient_type": "ingredients",
+        "ingredient": "raw beets  \u00a0\u00a0\n                                                                                                                     ",
+        "seasonal": false
+    },
+    {
+        "location": "philadelpha",
+        "ingredient_type": "ingredients",
+        "ingredient": "red onion  \u00a0\u00a0\n                                                                                                                     ",
+        "seasonal": false
+    },
+    {
+        "location": "philadelpha",
+        "ingredient_type": "ingredients",
+        "ingredient": "tomatoes  \u00a0\u00a0\n                                                                                                                     ",
+        "seasonal": false
+    },
+    {
+        "location": "philadelpha",
+        "ingredient_type": "ingredients",
+        "ingredient": "organic carrots  \u00a0\u00a0\n                                                                                                                     ",
+        "seasonal": false
+    },
+    {
+        "location": "philadelpha",
+        "ingredient_type": "ingredients",
+        "ingredient": "cucumbers  \u00a0\u00a0\n                                                                                                                     ",
+        "seasonal": false
+    },
+    {
+        "location": "philadelpha",
+        "ingredient_type": "ingredients",
+        "ingredient": "hot chickpeas  \u00a0\u00a0\n                                                                                                                     ",
+        "seasonal": false
+    },
+    {
+        "location": "philadelpha",
+        "ingredient_type": "ingredients",
+        "ingredient": "shredded cabbage  \u00a0\u00a0\n                                                                                                                     ",
+        "seasonal": false
+    },
+    {
+        "location": "philadelpha",
+        "ingredient_type": "ingredients",
+        "ingredient": "spicy broccoli  \u00a0\u00a0\n                                                                                                                     ",
+        "seasonal": false
+    },
+    {
+        "location": "philadelpha",
+        "ingredient_type": "ingredients",
+        "ingredient": "raw corn  \u00a0\u00a0\n                                                                                                                     ",
+        "seasonal": false
+    },
+    {
+        "location": "philadelpha",
+        "ingredient_type": "ingredients",
+        "ingredient": "local apples  \u00a0\u00a0\n                                                                                                                     ",
+        "seasonal": false
+    },
+    {
+        "location": "philadelpha",
+        "ingredient_type": "ingredients",
+        "ingredient": "roasted sweet potatoes  \u00a0\u00a0\n                                                                                                                     ",
+        "seasonal": false
+    },
+    {
+        "location": "philadelpha",
+        "ingredient_type": "ingredients",
+        "ingredient": "tortilla chips  \u00a0\u00a0\n                                                                                                                     ",
+        "seasonal": false
+    },
+    {
+        "location": "philadelpha",
+        "ingredient_type": "ingredients",
+        "ingredient": "spicy sunflower seeds  \u00a0\u00a0\n                                                                                                                     ",
+        "seasonal": false
+    },
+    {
+        "location": "philadelpha",
+        "ingredient_type": "ingredients",
+        "ingredient": "toasted almonds  \u00a0\u00a0\n                                                                                                                     ",
+        "seasonal": false
+    },
+    {
+        "location": "philadelpha",
+        "ingredient_type": "ingredients",
+        "ingredient": "za'atar breadcrumbs*  \u00a0\u00a0\n                                                                                                                                                                                                                                                                                                                ",
+        "seasonal": false
+    },
+    {
+        "location": "philadelpha",
+        "ingredient_type": "premiums",
+        "ingredient": "Blackened Chicken Thighs  \u00a0\u00a0\n                                                                                                                                                                                                                                                                                                                ",
+        "seasonal": true
+    },
+    {
+        "location": "philadelpha",
+        "ingredient_type": "premiums",
+        "ingredient": "Balsamic Roasted Squash  \u00a0\u00a0\n                                                                                                                                                                                                                                                                                                                ",
+        "seasonal": true
+    },
+    {
+        "location": "philadelpha",
+        "ingredient_type": "premiums",
+        "ingredient": "Miso-Glazed Root Vegetables  \u00a0\u00a0\n                                                                                                                                                                                                 \n",
+        "seasonal": true
+    },
+    {
+        "location": "philadelpha",
+        "ingredient_type": "premiums",
+        "ingredient": "Pickled Carrots + Celery  \u00a0\u00a0\n                                                                                                                                                                                                 \n",
+        "seasonal": true
+    },
+    {
+        "location": "philadelpha",
+        "ingredient_type": "premiums",
+        "ingredient": "Blue Cheese  \u00a0\u00a0\n                                                                                                                                                                                                                                                                                                                ",
+        "seasonal": true
+    },
+    {
+        "location": "philadelpha",
+        "ingredient_type": "premiums",
+        "ingredient": "organic Salami  \u00a0\u00a0\n                                                                                                                     ",
+        "seasonal": false
+    },
+    {
+        "location": "philadelpha",
+        "ingredient_type": "premiums",
+        "ingredient": "roasted steelhead  \u00a0\u00a0\n                                                                                                                     ",
+        "seasonal": false
+    },
+    {
+        "location": "philadelpha",
+        "ingredient_type": "premiums",
+        "ingredient": "roasted chicken  \u00a0\u00a0\n                                                                                                                     ",
+        "seasonal": false
+    },
+    {
+        "location": "philadelpha",
+        "ingredient_type": "premiums",
+        "ingredient": "warm portobello mix  \u00a0\u00a0\n                                                                                                                                                                                                 \n",
+        "seasonal": false
+    },
+    {
+        "location": "philadelpha",
+        "ingredient_type": "premiums",
+        "ingredient": "herb falafel  \u00a0\u00a0\n                                                                                                                                                                                                 \n",
+        "seasonal": false
+    },
+    {
+        "location": "philadelpha",
+        "ingredient_type": "premiums",
+        "ingredient": "roasted sesame tofu  \u00a0\u00a0\n                                                                                                                                                                                                 \n",
+        "seasonal": false
+    },
+    {
+        "location": "philadelpha",
+        "ingredient_type": "premiums",
+        "ingredient": "avocado  \u00a0\u00a0\n                                                                                                                                                                                                 \n",
+        "seasonal": false
+    },
+    {
+        "location": "philadelpha",
+        "ingredient_type": "premiums",
+        "ingredient": "hard-boiled egg  \u00a0\u00a0\n                                                                                                                     ",
+        "seasonal": false
+    },
+    {
+        "location": "philadelpha",
+        "ingredient_type": "premiums",
+        "ingredient": "housemade hummus  \u00a0\u00a0\n                                                                                                                                                                                                 \n",
+        "seasonal": false
+    },
+    {
+        "location": "philadelpha",
+        "ingredient_type": "premiums",
+        "ingredient": "local goat cheese  \u00a0\u00a0\n                                                                                                                     ",
+        "seasonal": false
+    },
+    {
+        "location": "philadelpha",
+        "ingredient_type": "premiums",
+        "ingredient": "local feta cheese  \u00a0\u00a0\n                                                                                                                     ",
+        "seasonal": false
+    },
+    {
+        "location": "philadelpha",
+        "ingredient_type": "premiums",
+        "ingredient": "shaved parmesan  \u00a0\u00a0\n                                                                                                                     ",
+        "seasonal": false
+    },
+    {
+        "location": "philadelpha",
+        "ingredient_type": "premiums",
+        "ingredient": "parmesan crisps  \u00a0\u00a0\n                                                                                                                     ",
+        "seasonal": false
+    },
+    {
+        "location": "philadelpha",
+        "ingredient_type": "dressings",
+        "ingredient": "Maple Mustard Vinaigrette  \u00a0\u00a0\n                                                                                                                                                                                                 \n",
+        "seasonal": true
+    },
+    {
+        "location": "philadelpha",
+        "ingredient_type": "dressings",
+        "ingredient": "curry yogurt dressing  \u00a0\u00a0\n                                                                                                                     ",
+        "seasonal": false
+    },
+    {
+        "location": "philadelpha",
+        "ingredient_type": "dressings",
+        "ingredient": "lime cilantro jalape\u00f1o vinaigrette  \u00a0\u00a0\n                                                                                                                                                                                                 \n",
+        "seasonal": false
+    },
+    {
+        "location": "philadelpha",
+        "ingredient_type": "dressings",
+        "ingredient": "miso sesame ginger vinaigrette  \u00a0\u00a0\n                                                                                                                                                                                                 \n",
+        "seasonal": false
+    },
+    {
+        "location": "philadelpha",
+        "ingredient_type": "dressings",
+        "ingredient": "pesto vinaigrette  \u00a0\u00a0\n                                                                                                                                                                                                 \n",
+        "seasonal": false
+    },
+    {
+        "location": "philadelpha",
+        "ingredient_type": "dressings",
+        "ingredient": "spicy cashew dressing  \u00a0\u00a0\n                                                                                                                                                                                                 \n",
+        "seasonal": false
+    },
+    {
+        "location": "philadelpha",
+        "ingredient_type": "dressings",
+        "ingredient": "sweetgreen hot sauce  \u00a0\u00a0\n                                                                                                                                                                                                 \n",
+        "seasonal": false
+    },
+    {
+        "location": "philadelpha",
+        "ingredient_type": "dressings",
+        "ingredient": "balsamic vinaigrette  \u00a0\u00a0\n                                                                                                                     ",
+        "seasonal": false
+    },
+    {
+        "location": "philadelpha",
+        "ingredient_type": "dressings",
+        "ingredient": "cucumber tahini yogurt dressing  \u00a0\u00a0\n                                                                                                                     ",
+        "seasonal": false
+    },
+    {
+        "location": "philadelpha",
+        "ingredient_type": "dressings",
+        "ingredient": "caesar dressing  \u00a0\u00a0\n                                                                                                                     ",
+        "seasonal": false
+    },
+    {
+        "location": "philadelpha",
+        "ingredient_type": "dressings",
+        "ingredient": "extra virgin olive oil  \u00a0\u00a0\n                                                                                                                                                                                                 \n",
+        "seasonal": false
+    },
+    {
+        "location": "philadelpha",
+        "ingredient_type": "dressings",
+        "ingredient": "balsamic vinegar  \u00a0\u00a0\n                                                                                                                                                                                                 \n",
+        "seasonal": false
+    },
+    {
+        "location": "philadelpha",
+        "ingredient_type": "dressings",
+        "ingredient": "fresh lime squeeze  \u00a0\u00a0\n                                                                                                                                                                                                 \n",
+        "seasonal": false
+    },
+    {
+        "location": "philadelpha",
+        "ingredient_type": "dressings",
+        "ingredient": "fresh lemon squeeze  \u00a0\u00a0\n                                                                                                                                                                                                 \n",
+        "seasonal": false
+    },
+    {
+        "location": "philadelpha",
+        "ingredient_type": "dressings",
+        "ingredient": "red chili  \u00a0\u00a0\n                                                                                                                     ",
+        "seasonal": false
+    },
+    {
+        "location": "boston",
+        "ingredient_type": "bases",
+        "ingredient": "organic mesclun  \u00a0\u00a0\n                                                                                                                     ",
+        "seasonal": false
+    },
+    {
+        "location": "boston",
+        "ingredient_type": "bases",
+        "ingredient": "organic arugula  \u00a0\u00a0\n                                                                                                                     ",
+        "seasonal": false
+    },
+    {
+        "location": "boston",
+        "ingredient_type": "bases",
+        "ingredient": "organic baby spinach  \u00a0\u00a0\n                                                                                                                     ",
+        "seasonal": false
+    },
+    {
+        "location": "boston",
+        "ingredient_type": "bases",
+        "ingredient": "shredded kale  \u00a0\u00a0\n                                                                                                                     ",
+        "seasonal": false
+    },
+    {
+        "location": "boston",
+        "ingredient_type": "bases",
+        "ingredient": "chopped romaine  \u00a0\u00a0\n                                                                                                                     ",
+        "seasonal": false
+    },
+    {
+        "location": "boston",
+        "ingredient_type": "bases",
+        "ingredient": "warm quinoa  \u00a0\u00a0\n                                                                                                                     ",
+        "seasonal": false
+    },
+    {
+        "location": "boston",
+        "ingredient_type": "bases",
+        "ingredient": "organic wild rice   \u00a0\u00a0\n                                                                                                                     ",
+        "seasonal": false
+    },
+    {
+        "location": "boston",
+        "ingredient_type": "ingredients",
+        "ingredient": "Caramelized Onions + Leeks  \u00a0\u00a0\n                                                                                                                                                                                                                                                                                                                ",
+        "seasonal": true
+    },
+    {
+        "location": "boston",
+        "ingredient_type": "ingredients",
+        "ingredient": "Badger Flame Beets  \u00a0\u00a0\n                                                                                                                                                                                                                                                                                                                ",
+        "seasonal": true
+    },
+    {
+        "location": "boston",
+        "ingredient_type": "ingredients",
+        "ingredient": "cilantro  \u00a0\u00a0\n                                                                                                                     ",
+        "seasonal": false
+    },
+    {
+        "location": "boston",
+        "ingredient_type": "ingredients",
+        "ingredient": "raisins  \u00a0\u00a0\n                                                                                                                     ",
+        "seasonal": false
+    },
+    {
+        "location": "boston",
+        "ingredient_type": "ingredients",
+        "ingredient": "basil  \u00a0\u00a0\n                                                                                                                     ",
+        "seasonal": false
+    },
+    {
+        "location": "boston",
+        "ingredient_type": "ingredients",
+        "ingredient": "raw beets  \u00a0\u00a0\n                                                                                                                     ",
+        "seasonal": false
+    },
+    {
+        "location": "boston",
+        "ingredient_type": "ingredients",
+        "ingredient": "red onion  \u00a0\u00a0\n                                                                                                                     ",
+        "seasonal": false
+    },
+    {
+        "location": "boston",
+        "ingredient_type": "ingredients",
+        "ingredient": "tomatoes  \u00a0\u00a0\n                                                                                                                     ",
+        "seasonal": false
+    },
+    {
+        "location": "boston",
+        "ingredient_type": "ingredients",
+        "ingredient": "organic carrots  \u00a0\u00a0\n                                                                                                                     ",
+        "seasonal": false
+    },
+    {
+        "location": "boston",
+        "ingredient_type": "ingredients",
+        "ingredient": "cucumbers  \u00a0\u00a0\n                                                                                                                     ",
+        "seasonal": false
+    },
+    {
+        "location": "boston",
+        "ingredient_type": "ingredients",
+        "ingredient": "hot chickpeas  \u00a0\u00a0\n                                                                                                                     ",
+        "seasonal": false
+    },
+    {
+        "location": "boston",
+        "ingredient_type": "ingredients",
+        "ingredient": "shredded cabbage  \u00a0\u00a0\n                                                                                                                     ",
+        "seasonal": false
+    },
+    {
+        "location": "boston",
+        "ingredient_type": "ingredients",
+        "ingredient": "spicy broccoli  \u00a0\u00a0\n                                                                                                                     ",
+        "seasonal": false
+    },
+    {
+        "location": "boston",
+        "ingredient_type": "ingredients",
+        "ingredient": "raw corn  \u00a0\u00a0\n                                                                                                                     ",
+        "seasonal": false
+    },
+    {
+        "location": "boston",
+        "ingredient_type": "ingredients",
+        "ingredient": "local apples  \u00a0\u00a0\n                                                                                                                     ",
+        "seasonal": false
+    },
+    {
+        "location": "boston",
+        "ingredient_type": "ingredients",
+        "ingredient": "roasted sweet potatoes  \u00a0\u00a0\n                                                                                                                     ",
+        "seasonal": false
+    },
+    {
+        "location": "boston",
+        "ingredient_type": "ingredients",
+        "ingredient": "tortilla chips  \u00a0\u00a0\n                                                                                                                     ",
+        "seasonal": false
+    },
+    {
+        "location": "boston",
+        "ingredient_type": "ingredients",
+        "ingredient": "spicy sunflower seeds  \u00a0\u00a0\n                                                                                                                     ",
+        "seasonal": false
+    },
+    {
+        "location": "boston",
+        "ingredient_type": "ingredients",
+        "ingredient": "toasted almonds  \u00a0\u00a0\n                                                                                                                     ",
+        "seasonal": false
+    },
+    {
+        "location": "boston",
+        "ingredient_type": "ingredients",
+        "ingredient": "za'atar breadcrumbs*  \u00a0\u00a0\n                                                                                                                                                                                                                                                                                                                ",
+        "seasonal": false
+    },
+    {
+        "location": "boston",
+        "ingredient_type": "premiums",
+        "ingredient": "Blackened Chicken Thighs  \u00a0\u00a0\n                                                                                                                                                                                                                                                                                                                ",
+        "seasonal": true
+    },
+    {
+        "location": "boston",
+        "ingredient_type": "premiums",
+        "ingredient": "Balsamic Roasted Squash  \u00a0\u00a0\n                                                                                                                                                                                                                                                                                                                ",
+        "seasonal": true
+    },
+    {
+        "location": "boston",
+        "ingredient_type": "premiums",
+        "ingredient": "Miso-Glazed Root Vegetables  \u00a0\u00a0\n                                                                                                                                                                                                 \n",
+        "seasonal": true
+    },
+    {
+        "location": "boston",
+        "ingredient_type": "premiums",
+        "ingredient": "Pickled Carrots + Celery  \u00a0\u00a0\n                                                                                                                                                                                                 \n",
+        "seasonal": true
+    },
+    {
+        "location": "boston",
+        "ingredient_type": "premiums",
+        "ingredient": "Blue Cheese  \u00a0\u00a0\n                                                                                                                                                                                                                                                                                                                ",
+        "seasonal": true
+    },
+    {
+        "location": "boston",
+        "ingredient_type": "premiums",
+        "ingredient": "organic Salami  \u00a0\u00a0\n                                                                                                                     ",
+        "seasonal": false
+    },
+    {
+        "location": "boston",
+        "ingredient_type": "premiums",
+        "ingredient": "roasted steelhead  \u00a0\u00a0\n                                                                                                                     ",
+        "seasonal": false
+    },
+    {
+        "location": "boston",
+        "ingredient_type": "premiums",
+        "ingredient": "roasted chicken  \u00a0\u00a0\n                                                                                                                     ",
+        "seasonal": false
+    },
+    {
+        "location": "boston",
+        "ingredient_type": "premiums",
+        "ingredient": "warm portobello mix  \u00a0\u00a0\n                                                                                                                                                                                                 \n",
+        "seasonal": false
+    },
+    {
+        "location": "boston",
+        "ingredient_type": "premiums",
+        "ingredient": "herb falafel  \u00a0\u00a0\n                                                                                                                                                                                                 \n",
+        "seasonal": false
+    },
+    {
+        "location": "boston",
+        "ingredient_type": "premiums",
+        "ingredient": "roasted sesame tofu  \u00a0\u00a0\n                                                                                                                                                                                                 \n",
+        "seasonal": false
+    },
+    {
+        "location": "boston",
+        "ingredient_type": "premiums",
+        "ingredient": "avocado  \u00a0\u00a0\n                                                                                                                                                                                                 \n",
+        "seasonal": false
+    },
+    {
+        "location": "boston",
+        "ingredient_type": "premiums",
+        "ingredient": "hard-boiled egg  \u00a0\u00a0\n                                                                                                                     ",
+        "seasonal": false
+    },
+    {
+        "location": "boston",
+        "ingredient_type": "premiums",
+        "ingredient": "housemade hummus  \u00a0\u00a0\n                                                                                                                                                                                                 \n",
+        "seasonal": false
+    },
+    {
+        "location": "boston",
+        "ingredient_type": "premiums",
+        "ingredient": "local goat cheese  \u00a0\u00a0\n                                                                                                                     ",
+        "seasonal": false
+    },
+    {
+        "location": "boston",
+        "ingredient_type": "premiums",
+        "ingredient": "local feta cheese  \u00a0\u00a0\n                                                                                                                     ",
+        "seasonal": false
+    },
+    {
+        "location": "boston",
+        "ingredient_type": "premiums",
+        "ingredient": "shaved parmesan  \u00a0\u00a0\n                                                                                                                     ",
+        "seasonal": false
+    },
+    {
+        "location": "boston",
+        "ingredient_type": "premiums",
+        "ingredient": "parmesan crisps  \u00a0\u00a0\n                                                                                                                     ",
+        "seasonal": false
+    },
+    {
+        "location": "boston",
+        "ingredient_type": "dressings",
+        "ingredient": "Maple Mustard Vinaigrette  \u00a0\u00a0\n                                                                                                                                                                                                 \n",
+        "seasonal": true
+    },
+    {
+        "location": "boston",
+        "ingredient_type": "dressings",
+        "ingredient": "curry yogurt dressing  \u00a0\u00a0\n                                                                                                                     ",
+        "seasonal": false
+    },
+    {
+        "location": "boston",
+        "ingredient_type": "dressings",
+        "ingredient": "lime cilantro jalape\u00f1o vinaigrette  \u00a0\u00a0\n                                                                                                                                                                                                 \n",
+        "seasonal": false
+    },
+    {
+        "location": "boston",
+        "ingredient_type": "dressings",
+        "ingredient": "miso sesame ginger vinaigrette  \u00a0\u00a0\n                                                                                                                                                                                                 \n",
+        "seasonal": false
+    },
+    {
+        "location": "boston",
+        "ingredient_type": "dressings",
+        "ingredient": "pesto vinaigrette  \u00a0\u00a0\n                                                                                                                                                                                                 \n",
+        "seasonal": false
+    },
+    {
+        "location": "boston",
+        "ingredient_type": "dressings",
+        "ingredient": "spicy cashew dressing  \u00a0\u00a0\n                                                                                                                                                                                                 \n",
+        "seasonal": false
+    },
+    {
+        "location": "boston",
+        "ingredient_type": "dressings",
+        "ingredient": "sweetgreen hot sauce  \u00a0\u00a0\n                                                                                                                                                                                                 \n",
+        "seasonal": false
+    },
+    {
+        "location": "boston",
+        "ingredient_type": "dressings",
+        "ingredient": "balsamic vinaigrette  \u00a0\u00a0\n                                                                                                                     ",
+        "seasonal": false
+    },
+    {
+        "location": "boston",
+        "ingredient_type": "dressings",
+        "ingredient": "cucumber tahini yogurt dressing  \u00a0\u00a0\n                                                                                                                     ",
+        "seasonal": false
+    },
+    {
+        "location": "boston",
+        "ingredient_type": "dressings",
+        "ingredient": "caesar dressing  \u00a0\u00a0\n                                                                                                                     ",
+        "seasonal": false
+    },
+    {
+        "location": "boston",
+        "ingredient_type": "dressings",
+        "ingredient": "extra virgin olive oil  \u00a0\u00a0\n                                                                                                                                                                                                 \n",
+        "seasonal": false
+    },
+    {
+        "location": "boston",
+        "ingredient_type": "dressings",
+        "ingredient": "balsamic vinegar  \u00a0\u00a0\n                                                                                                                                                                                                 \n",
+        "seasonal": false
+    },
+    {
+        "location": "boston",
+        "ingredient_type": "dressings",
+        "ingredient": "fresh lime squeeze  \u00a0\u00a0\n                                                                                                                                                                                                 \n",
+        "seasonal": false
+    },
+    {
+        "location": "boston",
+        "ingredient_type": "dressings",
+        "ingredient": "fresh lemon squeeze  \u00a0\u00a0\n                                                                                                                                                                                                 \n",
+        "seasonal": false
+    },
+    {
+        "location": "boston",
+        "ingredient_type": "dressings",
+        "ingredient": "red chili  \u00a0\u00a0\n                                                                                                                     ",
+        "seasonal": false
+    },
+    {
+        "location": "dc-md-va",
+        "ingredient_type": "bases",
+        "ingredient": "organic mesclun  \u00a0\u00a0\n                                                                                                                     ",
+        "seasonal": false
+    },
+    {
+        "location": "dc-md-va",
+        "ingredient_type": "bases",
+        "ingredient": "organic arugula  \u00a0\u00a0\n                                                                                                                     ",
+        "seasonal": false
+    },
+    {
+        "location": "dc-md-va",
+        "ingredient_type": "bases",
+        "ingredient": "organic baby spinach  \u00a0\u00a0\n                                                                                                                     ",
+        "seasonal": false
+    },
+    {
+        "location": "dc-md-va",
+        "ingredient_type": "bases",
+        "ingredient": "shredded kale  \u00a0\u00a0\n                                                                                                                     ",
+        "seasonal": false
+    },
+    {
+        "location": "dc-md-va",
+        "ingredient_type": "bases",
+        "ingredient": "chopped romaine  \u00a0\u00a0\n                                                                                                                     ",
+        "seasonal": false
+    },
+    {
+        "location": "dc-md-va",
+        "ingredient_type": "bases",
+        "ingredient": "warm quinoa  \u00a0\u00a0\n                                                                                                                     ",
+        "seasonal": false
+    },
+    {
+        "location": "dc-md-va",
+        "ingredient_type": "bases",
+        "ingredient": "organic wild rice   \u00a0\u00a0\n                                                                                                                     ",
+        "seasonal": false
+    },
+    {
+        "location": "dc-md-va",
+        "ingredient_type": "ingredients",
+        "ingredient": "Caramelized Onions + Leeks  \u00a0\u00a0\n                                                                                                                                                                                                                                                                                                                ",
+        "seasonal": true
+    },
+    {
+        "location": "dc-md-va",
+        "ingredient_type": "ingredients",
+        "ingredient": "Badger Flame Beets  \u00a0\u00a0\n                                                                                                                                                                                                                                                                                                                ",
+        "seasonal": true
+    },
+    {
+        "location": "dc-md-va",
+        "ingredient_type": "ingredients",
+        "ingredient": "cilantro  \u00a0\u00a0\n                                                                                                                     ",
+        "seasonal": false
+    },
+    {
+        "location": "dc-md-va",
+        "ingredient_type": "ingredients",
+        "ingredient": "raisins  \u00a0\u00a0\n                                                                                                                     ",
+        "seasonal": false
+    },
+    {
+        "location": "dc-md-va",
+        "ingredient_type": "ingredients",
+        "ingredient": "basil  \u00a0\u00a0\n                                                                                                                     ",
+        "seasonal": false
+    },
+    {
+        "location": "dc-md-va",
+        "ingredient_type": "ingredients",
+        "ingredient": "raw beets  \u00a0\u00a0\n                                                                                                                     ",
+        "seasonal": false
+    },
+    {
+        "location": "dc-md-va",
+        "ingredient_type": "ingredients",
+        "ingredient": "red onion  \u00a0\u00a0\n                                                                                                                     ",
+        "seasonal": false
+    },
+    {
+        "location": "dc-md-va",
+        "ingredient_type": "ingredients",
+        "ingredient": "tomatoes  \u00a0\u00a0\n                                                                                                                     ",
+        "seasonal": false
+    },
+    {
+        "location": "dc-md-va",
+        "ingredient_type": "ingredients",
+        "ingredient": "organic carrots  \u00a0\u00a0\n                                                                                                                     ",
+        "seasonal": false
+    },
+    {
+        "location": "dc-md-va",
+        "ingredient_type": "ingredients",
+        "ingredient": "cucumbers  \u00a0\u00a0\n                                                                                                                     ",
+        "seasonal": false
+    },
+    {
+        "location": "dc-md-va",
+        "ingredient_type": "ingredients",
+        "ingredient": "hot chickpeas  \u00a0\u00a0\n                                                                                                                     ",
+        "seasonal": false
+    },
+    {
+        "location": "dc-md-va",
+        "ingredient_type": "ingredients",
+        "ingredient": "shredded cabbage  \u00a0\u00a0\n                                                                                                                     ",
+        "seasonal": false
+    },
+    {
+        "location": "dc-md-va",
+        "ingredient_type": "ingredients",
+        "ingredient": "spicy broccoli  \u00a0\u00a0\n                                                                                                                     ",
+        "seasonal": false
+    },
+    {
+        "location": "dc-md-va",
+        "ingredient_type": "ingredients",
+        "ingredient": "raw corn  \u00a0\u00a0\n                                                                                                                     ",
+        "seasonal": false
+    },
+    {
+        "location": "dc-md-va",
+        "ingredient_type": "ingredients",
+        "ingredient": "local apples  \u00a0\u00a0\n                                                                                                                     ",
+        "seasonal": false
+    },
+    {
+        "location": "dc-md-va",
+        "ingredient_type": "ingredients",
+        "ingredient": "roasted sweet potatoes  \u00a0\u00a0\n                                                                                                                     ",
+        "seasonal": false
+    },
+    {
+        "location": "dc-md-va",
+        "ingredient_type": "ingredients",
+        "ingredient": "tortilla chips  \u00a0\u00a0\n                                                                                                                     ",
+        "seasonal": false
+    },
+    {
+        "location": "dc-md-va",
+        "ingredient_type": "ingredients",
+        "ingredient": "spicy sunflower seeds  \u00a0\u00a0\n                                                                                                                     ",
+        "seasonal": false
+    },
+    {
+        "location": "dc-md-va",
+        "ingredient_type": "ingredients",
+        "ingredient": "toasted almonds  \u00a0\u00a0\n                                                                                                                     ",
+        "seasonal": false
+    },
+    {
+        "location": "dc-md-va",
+        "ingredient_type": "ingredients",
+        "ingredient": "za'atar breadcrumbs*  \u00a0\u00a0\n                                                                                                                                                                                                                                                                                                                ",
+        "seasonal": false
+    },
+    {
+        "location": "dc-md-va",
+        "ingredient_type": "premiums",
+        "ingredient": "Blackened Chicken Thighs  \u00a0\u00a0\n                                                                                                                                                                                                                                                                                                                ",
+        "seasonal": true
+    },
+    {
+        "location": "dc-md-va",
+        "ingredient_type": "premiums",
+        "ingredient": "Balsamic Roasted Squash  \u00a0\u00a0\n                                                                                                                                                                                                                                                                                                                ",
+        "seasonal": true
+    },
+    {
+        "location": "dc-md-va",
+        "ingredient_type": "premiums",
+        "ingredient": "Miso-Glazed Root Vegetables  \u00a0\u00a0\n                                                                                                                                                                                                 \n",
+        "seasonal": true
+    },
+    {
+        "location": "dc-md-va",
+        "ingredient_type": "premiums",
+        "ingredient": "Pickled Carrots + Celery  \u00a0\u00a0\n                                                                                                                                                                                                 \n",
+        "seasonal": true
+    },
+    {
+        "location": "dc-md-va",
+        "ingredient_type": "premiums",
+        "ingredient": "Blue Cheese  \u00a0\u00a0\n                                                                                                                                                                                                                                                                                                                ",
+        "seasonal": true
+    },
+    {
+        "location": "dc-md-va",
+        "ingredient_type": "premiums",
+        "ingredient": "organic Salami  \u00a0\u00a0\n                                                                                                                     ",
+        "seasonal": false
+    },
+    {
+        "location": "dc-md-va",
+        "ingredient_type": "premiums",
+        "ingredient": "roasted steelhead  \u00a0\u00a0\n                                                                                                                     ",
+        "seasonal": false
+    },
+    {
+        "location": "dc-md-va",
+        "ingredient_type": "premiums",
+        "ingredient": "roasted chicken  \u00a0\u00a0\n                                                                                                                     ",
+        "seasonal": false
+    },
+    {
+        "location": "dc-md-va",
+        "ingredient_type": "premiums",
+        "ingredient": "warm portobello mix  \u00a0\u00a0\n                                                                                                                                                                                                 \n",
+        "seasonal": false
+    },
+    {
+        "location": "dc-md-va",
+        "ingredient_type": "premiums",
+        "ingredient": "herb falafel  \u00a0\u00a0\n                                                                                                                                                                                                 \n",
+        "seasonal": false
+    },
+    {
+        "location": "dc-md-va",
+        "ingredient_type": "premiums",
+        "ingredient": "roasted sesame tofu  \u00a0\u00a0\n                                                                                                                                                                                                 \n",
+        "seasonal": false
+    },
+    {
+        "location": "dc-md-va",
+        "ingredient_type": "premiums",
+        "ingredient": "avocado  \u00a0\u00a0\n                                                                                                                                                                                                 \n",
+        "seasonal": false
+    },
+    {
+        "location": "dc-md-va",
+        "ingredient_type": "premiums",
+        "ingredient": "hard-boiled egg  \u00a0\u00a0\n                                                                                                                     ",
+        "seasonal": false
+    },
+    {
+        "location": "dc-md-va",
+        "ingredient_type": "premiums",
+        "ingredient": "housemade hummus  \u00a0\u00a0\n                                                                                                                                                                                                 \n",
+        "seasonal": false
+    },
+    {
+        "location": "dc-md-va",
+        "ingredient_type": "premiums",
+        "ingredient": "local goat cheese  \u00a0\u00a0\n                                                                                                                     ",
+        "seasonal": false
+    },
+    {
+        "location": "dc-md-va",
+        "ingredient_type": "premiums",
+        "ingredient": "local feta cheese  \u00a0\u00a0\n                                                                                                                     ",
+        "seasonal": false
+    },
+    {
+        "location": "dc-md-va",
+        "ingredient_type": "premiums",
+        "ingredient": "shaved parmesan  \u00a0\u00a0\n                                                                                                                     ",
+        "seasonal": false
+    },
+    {
+        "location": "dc-md-va",
+        "ingredient_type": "premiums",
+        "ingredient": "parmesan crisps  \u00a0\u00a0\n                                                                                                                     ",
+        "seasonal": false
+    },
+    {
+        "location": "dc-md-va",
+        "ingredient_type": "dressings",
+        "ingredient": "Maple Mustard Vinaigrette  \u00a0\u00a0\n                                                                                                                                                                                                 \n",
+        "seasonal": true
+    },
+    {
+        "location": "dc-md-va",
+        "ingredient_type": "dressings",
+        "ingredient": "curry yogurt dressing  \u00a0\u00a0\n                                                                                                                     ",
+        "seasonal": false
+    },
+    {
+        "location": "dc-md-va",
+        "ingredient_type": "dressings",
+        "ingredient": "lime cilantro jalape\u00f1o vinaigrette  \u00a0\u00a0\n                                                                                                                                                                                                 \n",
+        "seasonal": false
+    },
+    {
+        "location": "dc-md-va",
+        "ingredient_type": "dressings",
+        "ingredient": "miso sesame ginger vinaigrette  \u00a0\u00a0\n                                                                                                                                                                                                 \n",
+        "seasonal": false
+    },
+    {
+        "location": "dc-md-va",
+        "ingredient_type": "dressings",
+        "ingredient": "pesto vinaigrette  \u00a0\u00a0\n                                                                                                                                                                                                 \n",
+        "seasonal": false
+    },
+    {
+        "location": "dc-md-va",
+        "ingredient_type": "dressings",
+        "ingredient": "spicy cashew dressing  \u00a0\u00a0\n                                                                                                                                                                                                 \n",
+        "seasonal": false
+    },
+    {
+        "location": "dc-md-va",
+        "ingredient_type": "dressings",
+        "ingredient": "sweetgreen hot sauce  \u00a0\u00a0\n                                                                                                                                                                                                 \n",
+        "seasonal": false
+    },
+    {
+        "location": "dc-md-va",
+        "ingredient_type": "dressings",
+        "ingredient": "balsamic vinaigrette  \u00a0\u00a0\n                                                                                                                     ",
+        "seasonal": false
+    },
+    {
+        "location": "dc-md-va",
+        "ingredient_type": "dressings",
+        "ingredient": "cucumber tahini yogurt dressing  \u00a0\u00a0\n                                                                                                                     ",
+        "seasonal": false
+    },
+    {
+        "location": "dc-md-va",
+        "ingredient_type": "dressings",
+        "ingredient": "caesar dressing  \u00a0\u00a0\n                                                                                                                     ",
+        "seasonal": false
+    },
+    {
+        "location": "dc-md-va",
+        "ingredient_type": "dressings",
+        "ingredient": "extra virgin olive oil  \u00a0\u00a0\n                                                                                                                                                                                                 \n",
+        "seasonal": false
+    },
+    {
+        "location": "dc-md-va",
+        "ingredient_type": "dressings",
+        "ingredient": "balsamic vinegar  \u00a0\u00a0\n                                                                                                                                                                                                 \n",
+        "seasonal": false
+    },
+    {
+        "location": "dc-md-va",
+        "ingredient_type": "dressings",
+        "ingredient": "fresh lime squeeze  \u00a0\u00a0\n                                                                                                                                                                                                 \n",
+        "seasonal": false
+    },
+    {
+        "location": "dc-md-va",
+        "ingredient_type": "dressings",
+        "ingredient": "fresh lemon squeeze  \u00a0\u00a0\n                                                                                                                                                                                                 \n",
+        "seasonal": false
+    },
+    {
+        "location": "dc-md-va",
+        "ingredient_type": "dressings",
+        "ingredient": "red chili  \u00a0\u00a0\n                                                                                                                     ",
+        "seasonal": false
+    },
+    {
+        "location": "los-angeles",
+        "ingredient_type": "bases",
+        "ingredient": "organic mesclun  \u00a0\u00a0\n                                                                                                                     ",
+        "seasonal": false
+    },
+    {
+        "location": "los-angeles",
+        "ingredient_type": "bases",
+        "ingredient": "organic arugula  \u00a0\u00a0\n                                                                                                                     ",
+        "seasonal": false
+    },
+    {
+        "location": "los-angeles",
+        "ingredient_type": "bases",
+        "ingredient": "organic baby spinach  \u00a0\u00a0\n                                                                                                                     ",
+        "seasonal": false
+    },
+    {
+        "location": "los-angeles",
+        "ingredient_type": "bases",
+        "ingredient": "shredded kale  \u00a0\u00a0\n                                                                                                                     ",
+        "seasonal": false
+    },
+    {
+        "location": "los-angeles",
+        "ingredient_type": "bases",
+        "ingredient": "chopped romaine  \u00a0\u00a0\n                                                                                                                     ",
+        "seasonal": false
+    },
+    {
+        "location": "los-angeles",
+        "ingredient_type": "bases",
+        "ingredient": "warm quinoa  \u00a0\u00a0\n                                                                                                                     ",
+        "seasonal": false
+    },
+    {
+        "location": "los-angeles",
+        "ingredient_type": "bases",
+        "ingredient": "organic wild rice   \u00a0\u00a0\n                                                                                                                     ",
+        "seasonal": false
+    },
+    {
+        "location": "los-angeles",
+        "ingredient_type": "ingredients",
+        "ingredient": "Caramelized Onions + Leeks  \u00a0\u00a0\n                                                                                                                                                                                                                                                                                                                ",
+        "seasonal": true
+    },
+    {
+        "location": "los-angeles",
+        "ingredient_type": "ingredients",
+        "ingredient": "Local Apples  \u00a0\u00a0\n                                                                                                                                                                                                                                                                                                                ",
+        "seasonal": true
+    },
+    {
+        "location": "los-angeles",
+        "ingredient_type": "ingredients",
+        "ingredient": "Badger Flame Beets  \u00a0\u00a0\n                                                                                                                                                                                                                                                                                                                ",
+        "seasonal": true
+    },
+    {
+        "location": "los-angeles",
+        "ingredient_type": "ingredients",
+        "ingredient": "cilantro  \u00a0\u00a0\n                                                                                                                     ",
+        "seasonal": false
+    },
+    {
+        "location": "los-angeles",
+        "ingredient_type": "ingredients",
+        "ingredient": "raisins  \u00a0\u00a0\n                                                                                                                     ",
+        "seasonal": false
+    },
+    {
+        "location": "los-angeles",
+        "ingredient_type": "ingredients",
+        "ingredient": "grapes  \u00a0\u00a0\n                                                                                                                     ",
+        "seasonal": false
+    },
+    {
+        "location": "los-angeles",
+        "ingredient_type": "ingredients",
+        "ingredient": "jicama  \u00a0\u00a0\n                                                                                                                     ",
+        "seasonal": false
+    },
+    {
+        "location": "los-angeles",
+        "ingredient_type": "ingredients",
+        "ingredient": "basil  \u00a0\u00a0\n                                                                                                                     ",
+        "seasonal": false
+    },
+    {
+        "location": "los-angeles",
+        "ingredient_type": "ingredients",
+        "ingredient": "raw beets  \u00a0\u00a0\n                                                                                                                     ",
+        "seasonal": false
+    },
+    {
+        "location": "los-angeles",
+        "ingredient_type": "ingredients",
+        "ingredient": "red onion  \u00a0\u00a0\n                                                                                                                     ",
+        "seasonal": false
+    },
+    {
+        "location": "los-angeles",
+        "ingredient_type": "ingredients",
+        "ingredient": "tomatoes  \u00a0\u00a0\n                                                                                                                     ",
+        "seasonal": false
+    },
+    {
+        "location": "los-angeles",
+        "ingredient_type": "ingredients",
+        "ingredient": "organic carrots  \u00a0\u00a0\n                                                                                                                     ",
+        "seasonal": false
+    },
+    {
+        "location": "los-angeles",
+        "ingredient_type": "ingredients",
+        "ingredient": "cucumbers  \u00a0\u00a0\n                                                                                                                     ",
+        "seasonal": false
+    },
+    {
+        "location": "los-angeles",
+        "ingredient_type": "ingredients",
+        "ingredient": "hot chickpeas  \u00a0\u00a0\n                                                                                                                     ",
+        "seasonal": false
+    },
+    {
+        "location": "los-angeles",
+        "ingredient_type": "ingredients",
+        "ingredient": "shredded cabbage  \u00a0\u00a0\n                                                                                                                     ",
+        "seasonal": false
+    },
+    {
+        "location": "los-angeles",
+        "ingredient_type": "ingredients",
+        "ingredient": "raw corn  \u00a0\u00a0\n                                                                                                                     ",
+        "seasonal": false
+    },
+    {
+        "location": "los-angeles",
+        "ingredient_type": "ingredients",
+        "ingredient": "spicy broccoli  \u00a0\u00a0\n                                                                                                                     ",
+        "seasonal": false
+    },
+    {
+        "location": "los-angeles",
+        "ingredient_type": "ingredients",
+        "ingredient": "tortilla chips  \u00a0\u00a0\n                                                                                                                     ",
+        "seasonal": false
+    },
+    {
+        "location": "los-angeles",
+        "ingredient_type": "ingredients",
+        "ingredient": "za'atar breadcrumbs*  \u00a0\u00a0\n                                                                                                                                                                                                                                                                                                                ",
+        "seasonal": false
+    },
+    {
+        "location": "los-angeles",
+        "ingredient_type": "ingredients",
+        "ingredient": "spicy sunflower seeds  \u00a0\u00a0\n                                                                                                                     ",
+        "seasonal": false
+    },
+    {
+        "location": "los-angeles",
+        "ingredient_type": "ingredients",
+        "ingredient": "roasted almonds  \u00a0\u00a0\n                                                                                                                     ",
+        "seasonal": false
+    },
+    {
+        "location": "los-angeles",
+        "ingredient_type": "premiums",
+        "ingredient": "Blackened Chicken Thighs  \u00a0\u00a0\n                                                                                                                                                                                                                                                                                                                ",
+        "seasonal": true
+    },
+    {
+        "location": "los-angeles",
+        "ingredient_type": "premiums",
+        "ingredient": "Balsamic Roasted Squash  \u00a0\u00a0\n                                                                                                                                                                                                                                                                                                                ",
+        "seasonal": true
+    },
+    {
+        "location": "los-angeles",
+        "ingredient_type": "premiums",
+        "ingredient": "Miso-Glazed Root Vegetables  \u00a0\u00a0\n                                                                                                                                                                                                 \n",
+        "seasonal": true
+    },
+    {
+        "location": "los-angeles",
+        "ingredient_type": "premiums",
+        "ingredient": "Blue Cheese  \u00a0\u00a0\n                                                                                                                                                                                                                                                                                                                ",
+        "seasonal": true
+    },
+    {
+        "location": "los-angeles",
+        "ingredient_type": "premiums",
+        "ingredient": "Pickled Carrots + Celery  \u00a0\u00a0\n                                                                                                                                                                                                 \n",
+        "seasonal": false
+    },
+    {
+        "location": "los-angeles",
+        "ingredient_type": "premiums",
+        "ingredient": "roasted steelhead  \u00a0\u00a0\n                                                                                                                     ",
+        "seasonal": false
+    },
+    {
+        "location": "los-angeles",
+        "ingredient_type": "premiums",
+        "ingredient": "roasted chicken  \u00a0\u00a0\n                                                                                                                     ",
+        "seasonal": false
+    },
+    {
+        "location": "los-angeles",
+        "ingredient_type": "premiums",
+        "ingredient": "warm portobello mix  \u00a0\u00a0\n                                                                                                                                                                                                 \n",
+        "seasonal": false
+    },
+    {
+        "location": "los-angeles",
+        "ingredient_type": "premiums",
+        "ingredient": "roasted sesame tofu  \u00a0\u00a0\n                                                                                                                                                                                                 \n",
+        "seasonal": false
+    },
+    {
+        "location": "los-angeles",
+        "ingredient_type": "premiums",
+        "ingredient": "herb falafel  \u00a0\u00a0\n                                                                                                                                                                                                 \n",
+        "seasonal": false
+    },
+    {
+        "location": "los-angeles",
+        "ingredient_type": "premiums",
+        "ingredient": "housemade hummus  \u00a0\u00a0\n                                                                                                                                                                                                 \n",
+        "seasonal": false
+    },
+    {
+        "location": "los-angeles",
+        "ingredient_type": "premiums",
+        "ingredient": "avocado  \u00a0\u00a0\n                                                                                                                                                                                                 \n",
+        "seasonal": false
+    },
+    {
+        "location": "los-angeles",
+        "ingredient_type": "premiums",
+        "ingredient": "hard-boiled egg  \u00a0\u00a0\n                                                                                                                     ",
+        "seasonal": false
+    },
+    {
+        "location": "los-angeles",
+        "ingredient_type": "premiums",
+        "ingredient": "local goat cheese  \u00a0\u00a0\n                                                                                                                     ",
+        "seasonal": false
+    },
+    {
+        "location": "los-angeles",
+        "ingredient_type": "premiums",
+        "ingredient": "local feta cheese  \u00a0\u00a0\n                                                                                                                     ",
+        "seasonal": false
+    },
+    {
+        "location": "los-angeles",
+        "ingredient_type": "premiums",
+        "ingredient": "shaved parmesan  \u00a0\u00a0\n                                                                                                                     ",
+        "seasonal": false
+    },
+    {
+        "location": "los-angeles",
+        "ingredient_type": "premiums",
+        "ingredient": "parmesan crisps  \u00a0\u00a0\n                                                                                                                     ",
+        "seasonal": false
+    },
+    {
+        "location": "los-angeles",
+        "ingredient_type": "dressings",
+        "ingredient": "Maple Mustard Vinaigrette  \u00a0\u00a0\n                                                                                                                                                                                                 \n",
+        "seasonal": true
+    },
+    {
+        "location": "los-angeles",
+        "ingredient_type": "dressings",
+        "ingredient": "curry yogurt dressing  \u00a0\u00a0\n                                                                                                                     ",
+        "seasonal": false
+    },
+    {
+        "location": "los-angeles",
+        "ingredient_type": "dressings",
+        "ingredient": "lime cilantro jalape\u00f1o vinaigrette  \u00a0\u00a0\n                                                                                                                                                                                                 \n",
+        "seasonal": false
+    },
+    {
+        "location": "los-angeles",
+        "ingredient_type": "dressings",
+        "ingredient": "miso sesame ginger vinaigrette  \u00a0\u00a0\n                                                                                                                                                                                                 \n",
+        "seasonal": false
+    },
+    {
+        "location": "los-angeles",
+        "ingredient_type": "dressings",
+        "ingredient": "pesto vinaigrette  \u00a0\u00a0\n                                                                                                                                                                                                 \n",
+        "seasonal": false
+    },
+    {
+        "location": "los-angeles",
+        "ingredient_type": "dressings",
+        "ingredient": "spicy cashew dressing  \u00a0\u00a0\n                                                                                                                                                                                                 \n",
+        "seasonal": false
+    },
+    {
+        "location": "los-angeles",
+        "ingredient_type": "dressings",
+        "ingredient": "sweetgreen hot sauce  \u00a0\u00a0\n                                                                                                                                                                                                 \n",
+        "seasonal": false
+    },
+    {
+        "location": "los-angeles",
+        "ingredient_type": "dressings",
+        "ingredient": "balsamic vinaigrette  \u00a0\u00a0\n                                                                                                                     ",
+        "seasonal": false
+    },
+    {
+        "location": "los-angeles",
+        "ingredient_type": "dressings",
+        "ingredient": "cucumber tahini yogurt dressing  \u00a0\u00a0\n                                                                                                                     ",
+        "seasonal": false
+    },
+    {
+        "location": "los-angeles",
+        "ingredient_type": "dressings",
+        "ingredient": "caesar dressing  \u00a0\u00a0\n                                                                                                                     ",
+        "seasonal": false
+    },
+    {
+        "location": "los-angeles",
+        "ingredient_type": "dressings",
+        "ingredient": "extra virgin olive oil  \u00a0\u00a0\n                                                                                                                                                                                                 \n",
+        "seasonal": false
+    },
+    {
+        "location": "los-angeles",
+        "ingredient_type": "dressings",
+        "ingredient": "balsamic vinegar  \u00a0\u00a0\n                                                                                                                                                                                                 \n",
+        "seasonal": false
+    },
+    {
+        "location": "los-angeles",
+        "ingredient_type": "dressings",
+        "ingredient": "fresh lime squeeze  \u00a0\u00a0\n                                                                                                                                                                                                 \n",
+        "seasonal": false
+    },
+    {
+        "location": "los-angeles",
+        "ingredient_type": "dressings",
+        "ingredient": "fresh lemon squeeze  \u00a0\u00a0\n                                                                                                                                                                                                 \n",
+        "seasonal": false
+    },
+    {
+        "location": "los-angeles",
+        "ingredient_type": "dressings",
+        "ingredient": "red chili  \u00a0\u00a0\n                                                                                                                     ",
+        "seasonal": false
+    }
+]
