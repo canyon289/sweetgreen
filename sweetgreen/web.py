@@ -5,6 +5,9 @@ import time
 import random
 
 from .utils import write_json
+from . import getLogger
+
+logger = getLogger()
 
 LOCATIONS = (
     "Chicago",
@@ -18,16 +21,25 @@ LOCATIONS = (
 
 WP_MENU_BASE_URL = "https://www.sweetgreen.com/menu/?region="
 SWEETGREEN_RESTAURANT_LOCATION_BASE_URL = "https://order.sweetgreen.com/api/restaurants"
+SWEETGREEN_RESTAURANT_MENU_BASE_URL = "https://order.sweetgreen.com/api/menus"
 
 
-USER_AGENT_STRING = {'User-Agent':("Mozilla/5.0 (Macintosh; U; Intel Mac OS X 10_6_6; en-en) AppleWebKit/533.19.4"
-                    " KHTML, like Gecko) Version/5.0.3 Safari/533.19.4")}
+USER_AGENT_STRING = ("Mozilla/5.0 (Macintosh; U; Intel Mac OS X 10_6_6; en-en) AppleWebKit/533.19.4"
+                    " KHTML, like Gecko) Version/5.0.3 Safari/533.19.4")
 
 RAW_FILE_PATH = os.path.join("data", "raw")
 
 
 def http_get(*args, **kwargs):
     """Make requests with some delay not to overload sweetgreens servers"""
+    # Set default user agent string
+    default_headers = kwargs.get("headers", {})
+    if "User-Agent" not in default_headers.keys():
+        default_headers["User-Agent"] = USER_AGENT_STRING
+
+    kwargs["headers"] = default_headers
+
+    # Make request
     response = requests.get(*args, **kwargs)
     time.sleep(random.random()*2)
     return response
@@ -38,10 +50,10 @@ def parse_locations(base_url, locations=None):
     all_ingredients = []
     all_menu_items = []
     for location in locations:
-        print("Requesting HTML for {}".format(location))
+        logger.info("Requesting HTML for {}".format(location))
 
         # Request HTML from web
-        location_response = http_get(base_url, headers=USER_AGENT_STRING,
+        location_response = http_get(base_url,
                                          params={"region": location})
         location_html = location_response.text
 
@@ -135,8 +147,8 @@ def cache_restaurants(restaurant_base_url=SWEETGREEN_RESTAURANT_LOCATION_BASE_UR
                       pages=1,
                       per=1000):
     """Caches all available restaurant locations from sweetgreens ordering app"""
-    print("Getting restaurant and outpost list from Sweetgreen")
-    restaurant_response = http_get(restaurant_base_url, headers=USER_AGENT_STRING,
+    logger.info("Getting restaurant and outpost list from Sweetgreen")
+    restaurant_response = http_get(restaurant_base_url,
                                        params={"pages": pages, "per": per})
 
     restaurant_json = restaurant_response.json()
@@ -144,4 +156,34 @@ def cache_restaurants(restaurant_base_url=SWEETGREEN_RESTAURANT_LOCATION_BASE_UR
     return
 
 
+def cache_restaurant_menus(max_restaurant_id=0,
+                           restaurant_menu_base_url=SWEETGREEN_RESTAURANT_MENU_BASE_URL,
+                           ):
+    """Iterate through all restaurants and get menu"""
 
+    restaurant_raw = os.path.join(RAW_FILE_PATH, "restaurant_menus")
+
+    # Get list of restaurant IDs
+    assert isinstance(max_restaurant_id, int)
+
+    max_restaurant_id += 1
+    restaurant_ids = list(range(1, max_restaurant_id))
+
+    random.shuffle(restaurant_ids)
+
+    file_name_template = "restaurant_menu_{}.json"
+
+    for restaurant_id in restaurant_ids:
+        try:
+            logger.info("Caching menu for restaurant id  {}".format(restaurant_id ))
+            full_route = "{}/{}".format(restaurant_menu_base_url, restaurant_id)
+            response = http_get(full_route)
+            restaurant_json = response.json()
+
+            file_name = file_name_template.format(restaurant_id)
+            write_json(restaurant_raw, file_name, restaurant_json)
+
+        except Exception as err:
+            logger.exception("RESTAURANT ID failed{}".format(restaurant_id))
+            logger.exception(err)
+    return
