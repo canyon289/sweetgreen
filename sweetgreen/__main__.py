@@ -1,3 +1,5 @@
-from .web import main
+from .web import cache_sweetgreen_webcontent
+from .data import clean_raw_files
 
-main()
+# cache_sweetgreen_webcontent()
+clean_raw_files()

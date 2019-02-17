@@ -106,7 +106,7 @@ def parse_ingredients(location, menu_html):
     return regsion_ingredients
 
 
-def main():
+def cache_sweetgreen_webcontent():
     """Parse all webpages and output json"""
     all_menu_items, all_ingredients = parse_locations(BASE_URL, LOCATIONS)
     file_path = os.path.join("data", "raw")
