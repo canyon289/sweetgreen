@@ -1,8 +1,10 @@
 from bs4 import BeautifulSoup
 import requests
+import os
+import time
+import random
 
 from .utils import write_json
-import os
 
 LOCATIONS = (
     "Chicago",
@@ -24,6 +26,13 @@ USER_AGENT_STRING = {'User-Agent':("Mozilla/5.0 (Macintosh; U; Intel Mac OS X 10
 RAW_FILE_PATH = os.path.join("data", "raw")
 
 
+def http_get(*args, **kwargs):
+    """Make requests with some delay not to overload sweetgreens servers"""
+    response = requests.get(*args, **kwargs)
+    time.sleep(random.random()*2)
+    return response
+
+
 def parse_locations(base_url, locations=None):
     """Get list of menu items and ingredients per location"""
     all_ingredients = []
@@ -32,7 +41,7 @@ def parse_locations(base_url, locations=None):
         print("Requesting HTML for {}".format(location))
 
         # Request HTML from web
-        location_response = requests.get(base_url,  headers=USER_AGENT_STRING,
+        location_response = http_get(base_url, headers=USER_AGENT_STRING,
                                          params={"region": location})
         location_html = location_response.text
 
@@ -126,7 +135,8 @@ def cache_restaurants(restaurant_base_url=SWEETGREEN_RESTAURANT_LOCATION_BASE_UR
                       pages=1,
                       per=1000):
     """Caches all available restaurant locations from sweetgreens ordering app"""
-    restaurant_response = requests.get(restaurant_base_url, headers=USER_AGENT_STRING,
+    print("Getting restaurant and outpost list from Sweetgreen")
+    restaurant_response = http_get(restaurant_base_url, headers=USER_AGENT_STRING,
                                        params={"pages": pages, "per": per})
 
     restaurant_json = restaurant_response.json()
