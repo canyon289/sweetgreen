@@ -14,7 +14,14 @@ LOCATIONS = (
     "los-angeles",
 )
 
-BASE_URL = "https://www.sweetgreen.com/menu/?region="
+WP_MENU_BASE_URL = "https://www.sweetgreen.com/menu/?region="
+SWEETGREEN_RESTAURANT_LOCATION_BASE_URL = "https://order.sweetgreen.com/api/restaurants"
+
+
+USER_AGENT_STRING = {'User-Agent':("Mozilla/5.0 (Macintosh; U; Intel Mac OS X 10_6_6; en-en) AppleWebKit/533.19.4"
+                    " KHTML, like Gecko) Version/5.0.3 Safari/533.19.4")}
+
+RAW_FILE_PATH = os.path.join("data", "raw")
 
 
 def parse_locations(base_url, locations=None):
@@ -25,7 +32,8 @@ def parse_locations(base_url, locations=None):
         print("Requesting HTML for {}".format(location))
 
         # Request HTML from web
-        location_response = requests.get(base_url, params={"region": location})
+        location_response = requests.get(base_url,  headers=USER_AGENT_STRING,
+                                         params={"region": location})
         location_html = location_response.text
 
         # Parse HTML
@@ -77,7 +85,7 @@ def parse_menu_items(location, menu_sections):
 
 def parse_ingredients(location, menu_html):
     """Parse page to get ingredients list"""
-    regsion_ingredients = []
+    region_ingredients = []
     ingredient_types = ["bases", "ingredients", "premiums", "dressings"]
 
     for ingredient_type in ingredient_types:
@@ -102,13 +110,28 @@ def parse_ingredients(location, menu_html):
                 "seasonal": seasonal,
             }
 
-            regsion_ingredients.append(ingredient_json)
-    return regsion_ingredients
+            region_ingredients.append(ingredient_json)
+    return region_ingredients
 
 
-def cache_sweetgreen_webcontent():
+def cache_sweetgreen_wordpress_content(file_path=RAW_FILE_PATH):
     """Parse all webpages and output json"""
-    all_menu_items, all_ingredients = parse_locations(BASE_URL, LOCATIONS)
-    file_path = os.path.join("data", "raw")
-    write_json(os.path.join(file_path, "raw_menu_items.json"), all_menu_items)
-    write_json(os.path.join(file_path, "raw_ingredients.json"), all_ingredients)
+    all_menu_items, all_ingredients = parse_locations(WP_MENU_BASE_URL, LOCATIONS)
+    write_json(file_path, "raw_menu_items.json", all_menu_items)
+    write_json(file_path, "raw_ingredients.json", all_ingredients)
+    return
+
+
+def cache_restaurants(restaurant_base_url=SWEETGREEN_RESTAURANT_LOCATION_BASE_URL,
+                      pages=1,
+                      per=1000):
+    """Caches all available restaurant locations from sweetgreens ordering app"""
+    restaurant_response = requests.get(restaurant_base_url, headers=USER_AGENT_STRING,
+                                       params={"pages": pages, "per": per})
+
+    restaurant_json = restaurant_response.json()
+    write_json(RAW_FILE_PATH, "raw_restaurants.json", restaurant_json)
+    return
+
+
+
