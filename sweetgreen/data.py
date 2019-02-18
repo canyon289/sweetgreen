@@ -3,9 +3,8 @@ Cleans raw JSON files and turns them into dataframes
 """
 import os
 from .utils import read_json, write_json
+from .web import RAW_FILE_PATH
 
-
-FILE_PATH_RAW = os.getenv("file_path", os.path.join("data", "raw"))
 FILE_PATH_CLEAN = os.getenv("file_path", os.path.join("data", "cleaned"))
 MENU_RAW_JSON = os.getenv("raw_menu_json", "raw_menu_items.json")
 INGREDIENTS_RAW_JSON = os.getenv("raw_ingredients", "raw_ingredients.json")
@@ -25,5 +24,5 @@ def clean_ingredients(file_path, file_name):
 
 
 def clean_raw_files():
-    clean_ingredients(FILE_PATH_RAW, INGREDIENTS_RAW_JSON)
+    clean_ingredients(RAW_FILE_PATH, INGREDIENTS_RAW_JSON)
     return
