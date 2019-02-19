@@ -1,0 +1,1544 @@
+{
+    "8": {
+        "id": 8,
+        "name": "shredded kale",
+        "short": "kale",
+        "description": null,
+        "source_location": null,
+        "harvest_date": null,
+        "kind": "bases",
+        "active": true,
+        "farm_ids": [
+            4
+        ],
+        "property_ids": [
+            4669,
+            4670
+        ],
+        "asset_ids": [
+            362
+        ]
+    },
+    "53": {
+        "id": 53,
+        "name": "cilantro",
+        "short": null,
+        "description": null,
+        "source_location": null,
+        "harvest_date": null,
+        "kind": "toppings",
+        "active": true,
+        "farm_ids": [],
+        "property_ids": [
+            4679,
+            4680
+        ],
+        "asset_ids": [
+            287
+        ]
+    },
+    "73": {
+        "id": 73,
+        "name": "tomato",
+        "short": null,
+        "description": null,
+        "source_location": null,
+        "harvest_date": null,
+        "kind": "toppings",
+        "active": true,
+        "farm_ids": [],
+        "property_ids": [
+            4716,
+            4717
+        ],
+        "asset_ids": [
+            376
+        ]
+    },
+    "13": {
+        "id": 13,
+        "name": "caesar dressing",
+        "short": "caesar",
+        "description": null,
+        "source_location": null,
+        "harvest_date": null,
+        "kind": "dressings",
+        "active": true,
+        "farm_ids": [],
+        "property_ids": [
+            4761,
+            4762,
+            4763,
+            4764,
+            4765
+        ],
+        "asset_ids": [
+            281
+        ]
+    },
+    "162": {
+        "id": 162,
+        "name": "za'atar breadcrumbs",
+        "short": null,
+        "description": null,
+        "source_location": null,
+        "harvest_date": null,
+        "kind": "toppings",
+        "active": true,
+        "farm_ids": [],
+        "property_ids": [
+            4718,
+            4719,
+            4720
+        ],
+        "asset_ids": [
+            2102
+        ]
+    },
+    "127": {
+        "id": 127,
+        "name": "blue cheese",
+        "short": null,
+        "description": null,
+        "source_location": null,
+        "harvest_date": null,
+        "kind": "premiums",
+        "active": true,
+        "farm_ids": [],
+        "property_ids": [
+            5335,
+            5336,
+            5337
+        ],
+        "asset_ids": [
+            3179
+        ]
+    },
+    "3": {
+        "id": 3,
+        "name": "chopped romaine",
+        "short": "romaine",
+        "description": null,
+        "source_location": null,
+        "harvest_date": null,
+        "kind": "bases",
+        "active": true,
+        "farm_ids": [],
+        "property_ids": [
+            4663,
+            4664
+        ],
+        "asset_ids": [
+            286
+        ]
+    },
+    "184": {
+        "id": 184,
+        "name": "sweetgreen hot sauce",
+        "short": "hot sauce",
+        "description": null,
+        "source_location": null,
+        "harvest_date": null,
+        "kind": "dressings",
+        "active": true,
+        "farm_ids": [],
+        "property_ids": [
+            4790,
+            4791
+        ],
+        "asset_ids": [
+            3201
+        ]
+    },
+    "259": {
+        "id": 259,
+        "name": "blackened chicken thighs",
+        "short": null,
+        "description": null,
+        "source_location": null,
+        "harvest_date": null,
+        "kind": "premiums",
+        "active": true,
+        "farm_ids": [],
+        "property_ids": [
+            5160,
+            5161,
+            5162
+        ],
+        "asset_ids": [
+            5775
+        ]
+    },
+    "268": {
+        "id": 268,
+        "name": "pickled carrots + celery",
+        "short": null,
+        "description": null,
+        "source_location": null,
+        "harvest_date": null,
+        "kind": "premiums",
+        "active": true,
+        "farm_ids": [],
+        "property_ids": [
+            5333,
+            5334
+        ],
+        "asset_ids": [
+            6142
+        ]
+    },
+    "7": {
+        "id": 7,
+        "name": "organic wild rice",
+        "short": "wild rice",
+        "description": null,
+        "source_location": null,
+        "harvest_date": null,
+        "kind": "bases",
+        "active": true,
+        "farm_ids": [
+            20
+        ],
+        "property_ids": [
+            4673,
+            4674,
+            4675
+        ],
+        "asset_ids": [
+            329
+        ]
+    },
+    "49": {
+        "id": 49,
+        "name": "basil",
+        "short": null,
+        "description": null,
+        "source_location": null,
+        "harvest_date": null,
+        "kind": "toppings",
+        "active": true,
+        "farm_ids": [],
+        "property_ids": [
+            4685,
+            4686
+        ],
+        "asset_ids": [
+            276
+        ]
+    },
+    "67": {
+        "id": 67,
+        "name": "shredded cabbage",
+        "short": "cabbage",
+        "description": null,
+        "source_location": null,
+        "harvest_date": null,
+        "kind": "toppings",
+        "active": true,
+        "farm_ids": [
+            6
+        ],
+        "property_ids": [
+            4703,
+            4704
+        ],
+        "asset_ids": [
+            361
+        ]
+    },
+    "72": {
+        "id": 72,
+        "name": "toasted almonds",
+        "short": "almonds",
+        "description": null,
+        "source_location": null,
+        "harvest_date": null,
+        "kind": "toppings",
+        "active": true,
+        "farm_ids": [],
+        "property_ids": [
+            4713,
+            4714,
+            4715
+        ],
+        "asset_ids": [
+            374
+        ]
+    },
+    "23": {
+        "id": 23,
+        "name": "miso sesame ginger dressing",
+        "short": null,
+        "description": null,
+        "source_location": null,
+        "harvest_date": null,
+        "kind": "dressings",
+        "active": true,
+        "farm_ids": [],
+        "property_ids": [
+            4777,
+            4778,
+            4779
+        ],
+        "asset_ids": [
+            319
+        ]
+    },
+    "243": {
+        "id": 243,
+        "name": "miso glazed vegetables",
+        "short": null,
+        "description": null,
+        "source_location": null,
+        "harvest_date": null,
+        "kind": "premiums",
+        "active": true,
+        "farm_ids": [],
+        "property_ids": [
+            5325,
+            5326
+        ],
+        "asset_ids": [
+            6541
+        ]
+    },
+    "95": {
+        "id": 95,
+        "name": "raisins",
+        "short": null,
+        "description": null,
+        "source_location": null,
+        "harvest_date": null,
+        "kind": "toppings",
+        "active": true,
+        "farm_ids": [],
+        "property_ids": [
+            4695,
+            4696
+        ],
+        "asset_ids": [
+            2112
+        ]
+    },
+    "170": {
+        "id": 170,
+        "name": "apples",
+        "short": null,
+        "description": null,
+        "source_location": null,
+        "harvest_date": null,
+        "kind": "toppings",
+        "active": true,
+        "farm_ids": [],
+        "property_ids": [
+            4681,
+            4682
+        ],
+        "asset_ids": [
+            2179
+        ]
+    },
+    "234": {
+        "id": 234,
+        "name": "walnuts",
+        "short": null,
+        "description": null,
+        "source_location": null,
+        "harvest_date": null,
+        "kind": "toppings",
+        "active": true,
+        "farm_ids": [],
+        "property_ids": [
+            5258,
+            5259,
+            5260
+        ],
+        "asset_ids": [
+            4889
+        ]
+    },
+    "10": {
+        "id": 10,
+        "name": "balsamic vinaigrette",
+        "short": null,
+        "description": null,
+        "source_location": null,
+        "harvest_date": null,
+        "kind": "dressings",
+        "active": true,
+        "farm_ids": [],
+        "property_ids": [
+            4759,
+            4760
+        ],
+        "asset_ids": [
+            274
+        ]
+    },
+    "265": {
+        "id": 265,
+        "name": "balsamic roasted squash",
+        "short": "balsamic squash",
+        "description": null,
+        "source_location": null,
+        "harvest_date": null,
+        "kind": "premiums",
+        "active": true,
+        "farm_ids": [],
+        "property_ids": [
+            5327,
+            5328
+        ],
+        "asset_ids": [
+            6130,
+            6367
+        ]
+    },
+    "6": {
+        "id": 6,
+        "name": "organic mesclun",
+        "short": "mesclun",
+        "description": null,
+        "source_location": null,
+        "harvest_date": null,
+        "kind": "bases",
+        "active": true,
+        "farm_ids": [],
+        "property_ids": [
+            4665,
+            4666
+        ],
+        "asset_ids": [
+            326
+        ]
+    },
+    "4": {
+        "id": 4,
+        "name": "organic arugula",
+        "short": "arugula",
+        "description": null,
+        "source_location": null,
+        "harvest_date": null,
+        "kind": "bases",
+        "active": true,
+        "farm_ids": [],
+        "property_ids": [
+            4671,
+            4672
+        ],
+        "asset_ids": [
+            322
+        ]
+    },
+    "45": {
+        "id": 45,
+        "name": "shaved parmesan",
+        "short": "parmesan",
+        "description": null,
+        "source_location": null,
+        "harvest_date": null,
+        "kind": "premiums",
+        "active": true,
+        "farm_ids": [],
+        "property_ids": [
+            4741,
+            4742,
+            4743
+        ],
+        "asset_ids": [
+            360
+        ]
+    },
+    "267": {
+        "id": 267,
+        "name": "maple mustard vinaigrette",
+        "short": null,
+        "description": null,
+        "source_location": null,
+        "harvest_date": null,
+        "kind": "dressings",
+        "active": true,
+        "farm_ids": [],
+        "property_ids": [
+            5331,
+            5332
+        ],
+        "asset_ids": [
+            6735
+        ]
+    },
+    "266": {
+        "id": 266,
+        "name": "caramelized onions + leeks",
+        "short": null,
+        "description": null,
+        "source_location": null,
+        "harvest_date": null,
+        "kind": "toppings",
+        "active": true,
+        "farm_ids": [],
+        "property_ids": [
+            5329,
+            5330
+        ],
+        "asset_ids": [
+            6364
+        ]
+    },
+    "158": {
+        "id": 158,
+        "name": "hot chickpeas",
+        "short": null,
+        "description": null,
+        "source_location": null,
+        "harvest_date": null,
+        "kind": "toppings",
+        "active": true,
+        "farm_ids": [],
+        "property_ids": [
+            4709,
+            4710
+        ],
+        "asset_ids": [
+            2052
+        ]
+    },
+    "33": {
+        "id": 33,
+        "name": "goat cheese",
+        "short": null,
+        "description": null,
+        "source_location": null,
+        "harvest_date": null,
+        "kind": "premiums",
+        "active": true,
+        "farm_ids": [
+            11
+        ],
+        "property_ids": [
+            4731,
+            4732,
+            4733
+        ],
+        "asset_ids": [
+            300
+        ]
+    },
+    "41": {
+        "id": 41,
+        "name": "roasted chicken",
+        "short": "chicken",
+        "description": null,
+        "source_location": null,
+        "harvest_date": null,
+        "kind": "premiums",
+        "active": true,
+        "farm_ids": [
+            16
+        ],
+        "property_ids": [
+            4744,
+            4745,
+            4746
+        ],
+        "asset_ids": [
+            348
+        ]
+    },
+    "66": {
+        "id": 66,
+        "name": "roasted sweet potato",
+        "short": "sweet potato",
+        "description": null,
+        "source_location": null,
+        "harvest_date": null,
+        "kind": "toppings",
+        "active": true,
+        "farm_ids": [],
+        "property_ids": [
+            4707,
+            4708
+        ],
+        "asset_ids": [
+            357
+        ]
+    },
+    "68": {
+        "id": 68,
+        "name": "spicy broccoli",
+        "short": null,
+        "description": null,
+        "source_location": null,
+        "harvest_date": null,
+        "kind": "toppings",
+        "active": true,
+        "farm_ids": [],
+        "property_ids": [
+            4711,
+            4712
+        ],
+        "asset_ids": [
+            364
+        ]
+    },
+    "24": {
+        "id": 24,
+        "name": "pesto vinaigrette",
+        "short": null,
+        "description": null,
+        "source_location": null,
+        "harvest_date": null,
+        "kind": "dressings",
+        "active": true,
+        "farm_ids": [],
+        "property_ids": [
+            4780,
+            4781
+        ],
+        "asset_ids": [
+            335
+        ]
+    },
+    "5": {
+        "id": 5,
+        "name": "organic baby spinach",
+        "short": "baby spinach",
+        "description": null,
+        "source_location": null,
+        "harvest_date": null,
+        "kind": "bases",
+        "active": true,
+        "farm_ids": [
+            17
+        ],
+        "property_ids": [
+            4667,
+            4668
+        ],
+        "asset_ids": [
+            323
+        ]
+    },
+    "155": {
+        "id": 155,
+        "name": "warm quinoa",
+        "short": null,
+        "description": null,
+        "source_location": null,
+        "harvest_date": null,
+        "kind": "bases",
+        "active": true,
+        "farm_ids": [],
+        "property_ids": [
+            4676,
+            4677,
+            4678
+        ],
+        "asset_ids": [
+            1995
+        ]
+    },
+    "64": {
+        "id": 64,
+        "name": "red onion",
+        "short": "onion",
+        "description": null,
+        "source_location": null,
+        "harvest_date": null,
+        "kind": "toppings",
+        "active": true,
+        "farm_ids": [],
+        "property_ids": [
+            5254,
+            5255
+        ],
+        "asset_ids": [
+            344
+        ]
+    },
+    "20": {
+        "id": 20,
+        "name": "fresh lemon squeeze",
+        "short": "lemon squeeze",
+        "description": null,
+        "source_location": null,
+        "harvest_date": null,
+        "kind": "dressings",
+        "active": true,
+        "farm_ids": [],
+        "property_ids": [
+            4771,
+            4772
+        ],
+        "asset_ids": [
+            297
+        ]
+    },
+    "171": {
+        "id": 171,
+        "name": "red chili",
+        "short": null,
+        "description": null,
+        "source_location": null,
+        "harvest_date": null,
+        "kind": "dressings",
+        "active": true,
+        "farm_ids": [],
+        "property_ids": [
+            4788,
+            4789
+        ],
+        "asset_ids": [
+            2190
+        ]
+    },
+    "245": {
+        "id": 245,
+        "name": "salami",
+        "short": null,
+        "description": null,
+        "source_location": null,
+        "harvest_date": null,
+        "kind": "premiums",
+        "active": true,
+        "farm_ids": [],
+        "property_ids": [
+            5176,
+            5177,
+            5178
+        ],
+        "asset_ids": [
+            5053
+        ]
+    },
+    "74": {
+        "id": 74,
+        "name": "tortilla chips",
+        "short": null,
+        "description": null,
+        "source_location": null,
+        "harvest_date": null,
+        "kind": "toppings",
+        "active": true,
+        "farm_ids": [],
+        "property_ids": [
+            4721,
+            4722
+        ],
+        "asset_ids": [
+            377
+        ]
+    },
+    "118": {
+        "id": 118,
+        "name": "steelhead",
+        "short": null,
+        "description": null,
+        "source_location": null,
+        "harvest_date": null,
+        "kind": "premiums",
+        "active": true,
+        "farm_ids": [],
+        "property_ids": [
+            4754,
+            4755,
+            4756
+        ],
+        "asset_ids": [
+            371
+        ]
+    },
+    "22": {
+        "id": 22,
+        "name": "lime cilantro jalapeno vinaigrette",
+        "short": null,
+        "description": null,
+        "source_location": null,
+        "harvest_date": null,
+        "kind": "dressings",
+        "active": true,
+        "farm_ids": [
+            7
+        ],
+        "property_ids": [
+            4775,
+            4776
+        ],
+        "asset_ids": [
+            310
+        ]
+    },
+    "39": {
+        "id": 39,
+        "name": "parmesan crisp",
+        "short": null,
+        "description": null,
+        "source_location": null,
+        "harvest_date": null,
+        "kind": "premiums",
+        "active": true,
+        "farm_ids": [],
+        "property_ids": [
+            4738,
+            4739,
+            4740
+        ],
+        "asset_ids": [
+            330
+        ]
+    },
+    "21": {
+        "id": 21,
+        "name": "fresh lime squeeze",
+        "short": "lime squeeze",
+        "description": null,
+        "source_location": null,
+        "harvest_date": null,
+        "kind": "dressings",
+        "active": true,
+        "farm_ids": [],
+        "property_ids": [
+            4773,
+            4774
+        ],
+        "asset_ids": [
+            298
+        ]
+    },
+    "54": {
+        "id": 54,
+        "name": "cucumber",
+        "short": null,
+        "description": null,
+        "source_location": null,
+        "harvest_date": null,
+        "kind": "toppings",
+        "active": true,
+        "farm_ids": [],
+        "property_ids": [
+            4689,
+            4690
+        ],
+        "asset_ids": [
+            292
+        ]
+    },
+    "32": {
+        "id": 32,
+        "name": "feta cheese",
+        "short": "feta",
+        "description": null,
+        "source_location": null,
+        "harvest_date": null,
+        "kind": "premiums",
+        "active": true,
+        "farm_ids": [
+            12
+        ],
+        "property_ids": [
+            4726,
+            4727,
+            4728
+        ],
+        "asset_ids": [
+            296
+        ]
+    },
+    "17": {
+        "id": 17,
+        "name": "cucumber tahini yogurt dressing",
+        "short": null,
+        "description": null,
+        "source_location": null,
+        "harvest_date": null,
+        "kind": "dressings",
+        "active": true,
+        "farm_ids": [
+            19
+        ],
+        "property_ids": [
+            4766,
+            4767,
+            4768
+        ],
+        "asset_ids": [
+            291
+        ]
+    },
+    "148": {
+        "id": 148,
+        "name": "herb falafel",
+        "short": null,
+        "description": null,
+        "source_location": null,
+        "harvest_date": null,
+        "kind": "premiums",
+        "active": true,
+        "farm_ids": [],
+        "property_ids": [
+            4747,
+            4748
+        ],
+        "asset_ids": [
+            2099
+        ]
+    },
+    "35": {
+        "id": 35,
+        "name": "housemade hummus",
+        "short": "hummus",
+        "description": null,
+        "source_location": null,
+        "harvest_date": null,
+        "kind": "premiums",
+        "active": true,
+        "farm_ids": [],
+        "property_ids": [
+            4736,
+            4737
+        ],
+        "asset_ids": [
+            306
+        ]
+    },
+    "70": {
+        "id": 70,
+        "name": "spicy sunflower seeds",
+        "short": null,
+        "description": null,
+        "source_location": null,
+        "harvest_date": null,
+        "kind": "toppings",
+        "active": true,
+        "farm_ids": [],
+        "property_ids": [
+            4705,
+            4706
+        ],
+        "asset_ids": [
+            367
+        ]
+    },
+    "60": {
+        "id": 60,
+        "name": "raw beet",
+        "short": "beet",
+        "description": null,
+        "source_location": null,
+        "harvest_date": null,
+        "kind": "toppings",
+        "active": true,
+        "farm_ids": [],
+        "property_ids": [
+            5252,
+            5253
+        ],
+        "asset_ids": [
+            339
+        ]
+    },
+    "139": {
+        "id": 139,
+        "name": "roasted sesame tofu",
+        "short": "sesame tofu",
+        "description": null,
+        "source_location": null,
+        "harvest_date": null,
+        "kind": "premiums",
+        "active": true,
+        "farm_ids": [],
+        "property_ids": [
+            4751,
+            4752,
+            4753
+        ],
+        "asset_ids": [
+            1395
+        ]
+    },
+    "150": {
+        "id": 150,
+        "name": "warm portobello mix",
+        "short": "portobellos",
+        "description": null,
+        "source_location": null,
+        "harvest_date": null,
+        "kind": "premiums",
+        "active": true,
+        "farm_ids": [],
+        "property_ids": [
+            4749,
+            4750
+        ],
+        "asset_ids": [
+            1808
+        ]
+    },
+    "27": {
+        "id": 27,
+        "name": "avocado",
+        "short": null,
+        "description": null,
+        "source_location": null,
+        "harvest_date": null,
+        "kind": "premiums",
+        "active": true,
+        "farm_ids": [],
+        "property_ids": [
+            4729,
+            4730
+        ],
+        "asset_ids": [
+            271
+        ]
+    },
+    "57": {
+        "id": 57,
+        "name": "organic carrot",
+        "short": "carrot",
+        "description": null,
+        "source_location": null,
+        "harvest_date": null,
+        "kind": "toppings",
+        "active": true,
+        "farm_ids": [],
+        "property_ids": [
+            5256,
+            5257
+        ],
+        "asset_ids": [
+            324
+        ]
+    },
+    "181": {
+        "id": 181,
+        "name": "curry yogurt dressing",
+        "short": null,
+        "description": null,
+        "source_location": null,
+        "harvest_date": null,
+        "kind": "dressings",
+        "active": true,
+        "farm_ids": [],
+        "property_ids": [
+            4785,
+            4786,
+            4787
+        ],
+        "asset_ids": [
+            3127
+        ]
+    },
+    "25": {
+        "id": 25,
+        "name": "spicy cashew dressing",
+        "short": null,
+        "description": null,
+        "source_location": null,
+        "harvest_date": null,
+        "kind": "dressings",
+        "active": true,
+        "farm_ids": [],
+        "property_ids": [
+            4782,
+            4783,
+            4784
+        ],
+        "asset_ids": [
+            365
+        ]
+    },
+    "61": {
+        "id": 61,
+        "name": "raw corn",
+        "short": "corn",
+        "description": null,
+        "source_location": null,
+        "harvest_date": null,
+        "kind": "toppings",
+        "active": true,
+        "farm_ids": [],
+        "property_ids": [
+            4697,
+            4698
+        ],
+        "asset_ids": [
+            340
+        ]
+    },
+    "233": {
+        "id": 233,
+        "name": "lentils",
+        "short": null,
+        "description": null,
+        "source_location": null,
+        "harvest_date": null,
+        "kind": "toppings",
+        "active": true,
+        "farm_ids": [],
+        "property_ids": [
+            4683,
+            4684
+        ],
+        "asset_ids": [
+            5101
+        ]
+    },
+    "151": {
+        "id": 151,
+        "name": "_",
+        "short": null,
+        "description": null,
+        "source_location": null,
+        "harvest_date": null,
+        "kind": null,
+        "active": false,
+        "farm_ids": [],
+        "property_ids": [
+            2
+        ],
+        "asset_ids": [
+            266
+        ]
+    },
+    "94": {
+        "id": 94,
+        "name": "jicama",
+        "short": null,
+        "description": null,
+        "source_location": null,
+        "harvest_date": null,
+        "kind": "toppings",
+        "active": true,
+        "farm_ids": [],
+        "property_ids": [
+            4691,
+            4692
+        ],
+        "asset_ids": [
+            309
+        ]
+    },
+    "98": {
+        "id": 98,
+        "name": "grapes",
+        "short": null,
+        "description": null,
+        "source_location": null,
+        "harvest_date": null,
+        "kind": "toppings",
+        "active": true,
+        "farm_ids": [],
+        "property_ids": [
+            4699,
+            4700
+        ],
+        "asset_ids": [
+            301
+        ]
+    },
+    "247": {
+        "id": 247,
+        "name": "dried oregano",
+        "short": null,
+        "description": null,
+        "source_location": null,
+        "harvest_date": null,
+        "kind": "dressings",
+        "active": true,
+        "farm_ids": [],
+        "property_ids": [
+            4803,
+            4804
+        ],
+        "asset_ids": [
+            5038
+        ]
+    },
+    "248": {
+        "id": 248,
+        "name": "nancy's vinaigrette",
+        "short": null,
+        "description": null,
+        "source_location": null,
+        "harvest_date": null,
+        "kind": "dressings",
+        "active": true,
+        "farm_ids": [],
+        "property_ids": [
+            4805,
+            4806
+        ],
+        "asset_ids": [
+            5042
+        ]
+    },
+    "246": {
+        "id": 246,
+        "name": "pickled celery",
+        "short": null,
+        "description": null,
+        "source_location": null,
+        "harvest_date": null,
+        "kind": "toppings",
+        "active": true,
+        "farm_ids": [],
+        "property_ids": [
+            4801,
+            4802
+        ],
+        "asset_ids": [
+            5047
+        ]
+    },
+    "103": {
+        "id": 103,
+        "name": "peaches",
+        "short": null,
+        "description": null,
+        "source_location": null,
+        "harvest_date": null,
+        "kind": "premiums",
+        "active": false,
+        "farm_ids": [],
+        "property_ids": [
+            5155,
+            5156
+        ],
+        "asset_ids": [
+            3979
+        ]
+    },
+    "101": {
+        "id": 101,
+        "name": "heirloom tomatoes",
+        "short": null,
+        "description": null,
+        "source_location": null,
+        "harvest_date": null,
+        "kind": "premiums",
+        "active": false,
+        "farm_ids": [],
+        "property_ids": [
+            5165,
+            5166
+        ],
+        "asset_ids": [
+            303
+        ]
+    },
+    "231": {
+        "id": 231,
+        "name": "roasted peppers",
+        "short": null,
+        "description": null,
+        "source_location": null,
+        "harvest_date": null,
+        "kind": "premiums",
+        "active": false,
+        "farm_ids": [],
+        "property_ids": [
+            5163,
+            5164
+        ],
+        "asset_ids": [
+            5565
+        ]
+    },
+    "14": {
+        "id": 14,
+        "name": "carrot chili vinaigrette",
+        "short": null,
+        "description": null,
+        "source_location": null,
+        "harvest_date": null,
+        "kind": "dressings",
+        "active": false,
+        "farm_ids": [],
+        "property_ids": [
+            5174,
+            5175
+        ],
+        "asset_ids": [
+            284
+        ]
+    },
+    "100": {
+        "id": 100,
+        "name": "watermelon",
+        "short": null,
+        "description": null,
+        "source_location": null,
+        "harvest_date": null,
+        "kind": "toppings",
+        "active": false,
+        "farm_ids": [],
+        "property_ids": [
+            5153,
+            5154
+        ],
+        "asset_ids": [
+            381
+        ]
+    },
+    "152": {
+        "id": 152,
+        "name": "true blue crab",
+        "short": "crab",
+        "description": null,
+        "source_location": null,
+        "harvest_date": null,
+        "kind": "premiums",
+        "active": false,
+        "farm_ids": [],
+        "property_ids": [
+            5167,
+            5168,
+            5169
+        ],
+        "asset_ids": [
+            2049
+        ]
+    },
+    "93": {
+        "id": 93,
+        "name": "nori furikake",
+        "short": null,
+        "description": null,
+        "source_location": null,
+        "harvest_date": null,
+        "kind": "dressings",
+        "active": false,
+        "farm_ids": [],
+        "property_ids": [
+            5023,
+            5024
+        ],
+        "asset_ids": [
+            321
+        ]
+    },
+    "71": {
+        "id": 71,
+        "name": "sprouts",
+        "short": null,
+        "description": null,
+        "source_location": null,
+        "harvest_date": null,
+        "kind": "toppings",
+        "active": false,
+        "farm_ids": [],
+        "property_ids": [
+            4985,
+            4986
+        ],
+        "asset_ids": [
+            369
+        ]
+    },
+    "38": {
+        "id": 38,
+        "name": "organic white cheddar",
+        "short": "white cheddar",
+        "description": null,
+        "source_location": null,
+        "harvest_date": null,
+        "kind": "premiums",
+        "active": false,
+        "farm_ids": [],
+        "property_ids": [
+            4942,
+            4943,
+            4944
+        ],
+        "asset_ids": [
+            328
+        ]
+    },
+    "56": {
+        "id": 56,
+        "name": "organic chickpeas",
+        "short": "chickpeas",
+        "description": null,
+        "source_location": null,
+        "harvest_date": null,
+        "kind": "toppings",
+        "active": false,
+        "farm_ids": [],
+        "property_ids": [
+            4967,
+            4968
+        ],
+        "asset_ids": [
+            325
+        ]
+    },
+    "43": {
+        "id": 43,
+        "name": "roasted organic tofu",
+        "short": "tofu",
+        "description": null,
+        "source_location": null,
+        "harvest_date": null,
+        "kind": "premiums",
+        "active": false,
+        "farm_ids": [],
+        "property_ids": [
+            4949,
+            4950,
+            4951
+        ],
+        "asset_ids": [
+            354
+        ]
+    },
+    "69": {
+        "id": 69,
+        "name": "spicy quinoa",
+        "short": null,
+        "description": null,
+        "source_location": null,
+        "harvest_date": null,
+        "kind": "toppings",
+        "active": false,
+        "farm_ids": [],
+        "property_ids": [
+            4982,
+            4983,
+            4984
+        ],
+        "asset_ids": [
+            366
+        ]
+    },
+    "31": {
+        "id": 31,
+        "name": "citrus shrimp",
+        "short": "shrimp",
+        "description": null,
+        "source_location": null,
+        "harvest_date": null,
+        "kind": "premiums",
+        "active": false,
+        "farm_ids": [],
+        "property_ids": [
+            4939,
+            4940,
+            4941
+        ],
+        "asset_ids": [
+            288
+        ]
+    },
+    "258": {
+        "id": 258,
+        "name": "burrata",
+        "short": null,
+        "description": null,
+        "source_location": null,
+        "harvest_date": null,
+        "kind": "premiums",
+        "active": false,
+        "farm_ids": [],
+        "property_ids": [
+            5157,
+            5158,
+            5159
+        ],
+        "asset_ids": [
+            5562
+        ]
+    },
+    "253": {
+        "id": 253,
+        "name": "green goddess ranch dressing",
+        "short": "green goddess dressing",
+        "description": null,
+        "source_location": null,
+        "harvest_date": null,
+        "kind": "dressings",
+        "active": false,
+        "farm_ids": [],
+        "property_ids": [
+            5183,
+            5184,
+            5185,
+            5186
+        ],
+        "asset_ids": [
+            5591
+        ]
+    },
+    "86": {
+        "id": 86,
+        "name": "roasted corn + peppers",
+        "short": null,
+        "description": null,
+        "source_location": null,
+        "harvest_date": null,
+        "kind": "premiums",
+        "active": false,
+        "farm_ids": [],
+        "property_ids": [
+            5123,
+            5124
+        ],
+        "asset_ids": [
+            5402
+        ]
+    },
+    "254": {
+        "id": 254,
+        "name": "roasted zucchini + yellow squash",
+        "short": "roasted zucchini + squash",
+        "description": null,
+        "source_location": null,
+        "harvest_date": null,
+        "kind": "premiums",
+        "active": false,
+        "farm_ids": [],
+        "property_ids": [
+            4648,
+            4649
+        ],
+        "asset_ids": [
+            5419
+        ]
+    },
+    "257": {
+        "id": 257,
+        "name": "charred tomato vinaigrette",
+        "short": null,
+        "description": null,
+        "source_location": null,
+        "harvest_date": null,
+        "kind": "dressings",
+        "active": false,
+        "farm_ids": [],
+        "property_ids": [
+            4654,
+            4655
+        ],
+        "asset_ids": [
+            5444
+        ]
+    },
+    "255": {
+        "id": 255,
+        "name": "spicy pickled vegetables",
+        "short": null,
+        "description": null,
+        "source_location": null,
+        "harvest_date": null,
+        "kind": "premiums",
+        "active": false,
+        "farm_ids": [],
+        "property_ids": [
+            4650,
+            4651
+        ],
+        "asset_ids": [
+            5425
+        ]
+    }
+}

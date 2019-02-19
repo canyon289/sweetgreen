@@ -4,6 +4,8 @@ import os
 import time
 import random
 
+
+# TODO import under utils namespace
 from .utils import write_json
 from . import getLogger
 
@@ -22,7 +24,7 @@ LOCATIONS = (
 WP_MENU_BASE_URL = "https://www.sweetgreen.com/menu/?region="
 SWEETGREEN_RESTAURANT_LOCATION_BASE_URL = "https://order.sweetgreen.com/api/restaurants"
 SWEETGREEN_RESTAURANT_MENU_BASE_URL = "https://order.sweetgreen.com/api/menus"
-SWEETGREEN_RESTAURANT_MENU_DIRECTORY = "restaurants"
+SWEETGREEN_RESTAURANT_MENU_DIRECTORY = "restaurant_menus"
 
 
 USER_AGENT_STRING = ("Mozilla/5.0 (Macintosh; U; Intel Mac OS X 10_6_6; en-en) AppleWebKit/533.19.4"
@@ -153,6 +155,7 @@ def cache_restaurants(restaurant_base_url=SWEETGREEN_RESTAURANT_LOCATION_BASE_UR
                                        params={"pages": pages, "per": per})
 
     restaurant_json = restaurant_response.json()
+    # TODO Make the filename user configurable
     write_json(RAW_FILE_PATH, "raw_restaurants.json", restaurant_json)
     return
 

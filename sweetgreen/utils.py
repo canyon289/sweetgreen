@@ -23,7 +23,7 @@ def read_json(file_name, file_path=None):
         return json.load(file_input)
 
 
-def load_all_restaurant_menus(file_path):
+def load_all_json_directory(file_path):
     """Loads all json files from one directory into an array"""
     glob_string = "{}/{}".format(file_path, "*.json")
     json_paths = glob.iglob(glob_string)
@@ -65,7 +65,7 @@ def compile_jsons(json_array, key_name, input_json=None):
 
         if not existing_record:
             # No existing record, add immediately
-            input_json[key_name] = proposed_insert
+            input_json[proposed_insert_id] = proposed_insert
 
         # Compare values to ensure everything is the same
         else:
