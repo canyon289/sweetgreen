@@ -22,6 +22,7 @@ LOCATIONS = (
 WP_MENU_BASE_URL = "https://www.sweetgreen.com/menu/?region="
 SWEETGREEN_RESTAURANT_LOCATION_BASE_URL = "https://order.sweetgreen.com/api/restaurants"
 SWEETGREEN_RESTAURANT_MENU_BASE_URL = "https://order.sweetgreen.com/api/menus"
+SWEETGREEN_RESTAURANT_MENU_DIRECTORY = "restaurants"
 
 
 USER_AGENT_STRING = ("Mozilla/5.0 (Macintosh; U; Intel Mac OS X 10_6_6; en-en) AppleWebKit/533.19.4"
@@ -157,11 +158,13 @@ def cache_restaurants(restaurant_base_url=SWEETGREEN_RESTAURANT_LOCATION_BASE_UR
 
 
 def cache_restaurant_menus(max_restaurant_id=0,
+                           file_path=RAW_FILE_PATH,
                            restaurant_menu_base_url=SWEETGREEN_RESTAURANT_MENU_BASE_URL,
+                           restaurant_menu_directory=SWEETGREEN_RESTAURANT_MENU_DIRECTORY
                            ):
     """Iterate through all restaurants and get menu"""
 
-    restaurant_raw = os.path.join(RAW_FILE_PATH, "restaurant_menus")
+    restaurant_raw = os.path.join(file_path, restaurant_menu_directory)
 
     # Get list of restaurant IDs
     assert isinstance(max_restaurant_id, int)
