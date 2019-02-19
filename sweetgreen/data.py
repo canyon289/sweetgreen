@@ -52,3 +52,28 @@ def compile_ingredients_json(
 
     utils.write_json(output_file_path, output_file_name, compiled_ingredients)
     return
+
+
+def flatten_restaurants_json(
+        raw_file_path=RAW_FILE_PATH,
+        raw_file_name="raw_restaurants.json",
+        output_file_path=FILE_PATH_CLEAN,
+        output_file_name="flattened_restaurants.json",
+):
+    """Flattens restaurant JSON to make it easier to load into a Pandas Dataframe"""
+
+    raw_restaurant_json = utils.load_all_json_directory(
+        os.path.join(raw_file_path, raw_file_name)
+    )
+
+    raw_restaurants = raw_restaurant_json["restaurant"]
+
+    for restaurant in raw_restaurants:
+        for key in ("available_dropoff_locations", "dietary_preference_overrides", "asset_ids"):
+            restaurant[key] = str(key)
+
+        hours = restaurant.pop("hours")
+        for day in hours:
+            day_str = day["wday"]
+            restaurant[f"start_{day_str}"] = day["start"]
+            restaurant[f"end_{day_str}"] = day["end"]
