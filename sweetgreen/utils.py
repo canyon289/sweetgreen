@@ -31,3 +31,49 @@ def load_all_restaurant_menus(file_path):
     jsons = [read_json(json_path) for json_path in json_paths]
 
     return jsons
+
+
+def compile_jsons(json_array, key_name, input_json=None):
+    """Given an array of JSON objects deduplicate lists, and verify consistency across arrays
+
+    Parameters
+    ----------
+    json_array: list
+        An array of json objects that could potentially be combined
+    key_name: obj
+        Key value of json
+    input_json: dict, opt
+        Existing store of json values
+
+    Returns
+    -------
+    input_json: dict
+        input_json with objects added from json_array
+
+    """
+    if input_json is None:
+        input_json = {}
+
+    # Iterate through json_array to combine with input_json
+    for proposed_insert in json_array:
+
+        # Get key of current json_value
+        proposed_insert_id = proposed_insert[key_name]
+
+        # Determine if there is an existing record with the same id
+        existing_record = input_json.get(proposed_insert_id)
+
+        if not existing_record:
+            # No existing record, add immediately
+            input_json[key_name] = proposed_insert
+
+        # Compare values to ensure everything is the same
+        else:
+
+            existing_record_str = json.dumps(existing_record, sort_keys=True)
+            proposed_insert_str = json.dumps(proposed_insert, sort_keys=True)
+            assert proposed_insert_str == existing_record_str
+
+    return input_json
+
+
