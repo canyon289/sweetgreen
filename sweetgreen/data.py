@@ -38,6 +38,7 @@ def compile_ingredients_json(
 ):
     """Iterate through restaurant JSONs and get list of ingredients and properties"""
     logger.info("Compiling ingredients from all restaurant menus")
+
     restaurant_jsons = utils.load_all_json_directory(
         os.path.join(raw_file_path, restaurant_menu_directory)
     )
@@ -61,19 +62,35 @@ def flatten_restaurants_json(
         output_file_name="flattened_restaurants.json",
 ):
     """Flattens restaurant JSON to make it easier to load into a Pandas Dataframe"""
+    logger.info("Flattening restaurants from raw restaurant json")
 
-    raw_restaurant_json = utils.load_all_json_directory(
+    raw_restaurant_json = utils.read_json(
         os.path.join(raw_file_path, raw_file_name)
     )
 
-    raw_restaurants = raw_restaurant_json["restaurant"]
+    raw_restaurants = raw_restaurant_json["restaurants"]
 
     for restaurant in raw_restaurants:
         for key in ("available_dropoff_locations", "dietary_preference_overrides", "asset_ids"):
-            restaurant[key] = str(key)
+            restaurant[key] = str(restaurant[key])
 
         hours = restaurant.pop("hours")
+
+        # Flatten days open
+        possible_days = {"Sun", "Mon", "Tue", "Wed", "Thu", "Fri", "Sat"}
         for day in hours:
-            day_str = day["wday"]
-            restaurant[f"start_{day_str}"] = day["start"]
-            restaurant[f"end_{day_str}"] = day["end"]
+            try:
+                day_str = day["wday"]
+                possible_days.remove(day_str)
+                restaurant[f"{day_str}_start"] = day["start"]
+                restaurant[f"{day_str}_end"] = day["end"]
+
+            except (TypeError, KeyError):
+                pass
+
+        for possible_day in possible_days:
+            restaurant[f"{possible_day}_start"] = None
+            restaurant[f"{possible_day}_end"] = None
+
+    utils.write_json(output_file_path, output_file_name, raw_restaurants)
+    return

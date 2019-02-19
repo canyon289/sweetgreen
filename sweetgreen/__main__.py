@@ -4,10 +4,21 @@ from .web import (
     cache_restaurants,
     cache_restaurant_menus,
 )
-from .data import compile_ingredients_json
+from .data import compile_ingredients_json, flatten_restaurants_json
 
 
 SG_LOGO = """
+"""
+
+"""
+ #     #                                                          
+ #  #  # ###### #       ####   ####  #    # ######   #####  ####  
+ #  #  # #      #      #    # #    # ##  ## #          #   #    # 
+ #  #  # #####  #      #      #    # # ## # #####      #   #    # 
+ #  #  # #      #      #      #    # #    # #          #   #    # 
+ #  #  # #      #      #    # #    # #    # #          #   #    # 
+  ## ##  ###### ######  ####   ####  #    # ######     #    ####  
+ 
 dddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddd
 dddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddd
 dddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddd
@@ -43,6 +54,14 @@ dddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddd
 dddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddd
 dddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddd
 dddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddd
+ 
+ ######                                                           
+ #     #   ##   #####   ####  ###### #####                        
+ #     #  #  #  #    # #      #      #    #                       
+ ######  #    # #    #  ####  #####  #    #                       
+ #       ###### #####       # #      #####                        
+ #       #    # #   #  #    # #      #   #                        
+ #       #    # #    #  ####  ###### #    #                       
 """
 
 
@@ -50,11 +69,11 @@ dddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddd
 @click.option("--cache-wp", "cache_wp", default=False, is_flag=True)
 @click.option("--cache-rest", "cache_rest", default=False, is_flag=True)
 @click.option("--cache-menus", "cache_menus", default=0)
-@click.option("--clean-wp", "clean_wp", default=False, is_flag=True)
+@click.option("--flatten-rest", "flatten_rest", default=False, is_flag=True)
 @click.option(
     "--compile-ingredients", "compile_ingredients", default=False, is_flag=True
 )
-def main(cache_wp, clean_wp, cache_rest, cache_menus, compile_ingredients):
+def main(cache_wp, flatten_rest, cache_rest, cache_menus, compile_ingredients):
     print(SG_LOGO)
 
     if cache_wp:
@@ -68,6 +87,9 @@ def main(cache_wp, clean_wp, cache_rest, cache_menus, compile_ingredients):
 
     if compile_ingredients:
         compile_ingredients_json()
+
+    if flatten_rest:
+        flatten_restaurants_json()
     return
 
 

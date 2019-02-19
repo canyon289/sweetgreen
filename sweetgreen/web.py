@@ -25,6 +25,7 @@ WP_MENU_BASE_URL = "https://www.sweetgreen.com/menu/?region="
 SWEETGREEN_RESTAURANT_LOCATION_BASE_URL = "https://order.sweetgreen.com/api/restaurants"
 SWEETGREEN_RESTAURANT_MENU_BASE_URL = "https://order.sweetgreen.com/api/menus"
 SWEETGREEN_RESTAURANT_MENU_DIRECTORY = "restaurant_menus"
+MENU_JSON = "restaurant_menus"
 
 
 USER_AGENT_STRING = (
