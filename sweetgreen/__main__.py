@@ -7,10 +7,8 @@ from .web import (
 from .data import compile_ingredients_json, flatten_restaurants_json
 
 
-SG_LOGO = """
-"""
 
-"""
+SG_LOGO = """
  #     #                                                          
  #  #  # ###### #       ####   ####  #    # ######   #####  ####  
  #  #  # #      #      #    # #    # ##  ## #          #   #    # 
