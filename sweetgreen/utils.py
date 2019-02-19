@@ -75,5 +75,3 @@ def compile_jsons(json_array, key_name, input_json=None):
             assert proposed_insert_str == existing_record_str
 
     return input_json
-
-

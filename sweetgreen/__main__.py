@@ -1,5 +1,9 @@
 import click
-from .web import cache_sweetgreen_wordpress_content, cache_restaurants, cache_restaurant_menus
+from .web import (
+    cache_sweetgreen_wordpress_content,
+    cache_restaurants,
+    cache_restaurant_menus,
+)
 from .data import compile_ingredients_json
 
 
@@ -43,11 +47,13 @@ dddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddd
 
 
 @click.command()
-@click.option("--cache-wp", "cache_wp",  default=False, is_flag=True)
-@click.option("--cache-rest", "cache_rest",  default=False, is_flag=True)
-@click.option("--cache-menus", "cache_menus",  default=0)
-@click.option("--clean-wp", "clean_wp",  default=False, is_flag=True)
-@click.option("--compile-ingredients", "compile_ingredients",  default=False, is_flag=True)
+@click.option("--cache-wp", "cache_wp", default=False, is_flag=True)
+@click.option("--cache-rest", "cache_rest", default=False, is_flag=True)
+@click.option("--cache-menus", "cache_menus", default=0)
+@click.option("--clean-wp", "clean_wp", default=False, is_flag=True)
+@click.option(
+    "--compile-ingredients", "compile_ingredients", default=False, is_flag=True
+)
 def main(cache_wp, clean_wp, cache_rest, cache_menus, compile_ingredients):
     print(SG_LOGO)
 
@@ -67,4 +73,3 @@ def main(cache_wp, clean_wp, cache_rest, cache_menus, compile_ingredients):
 
 if __name__ == "__main__":
     main()
-

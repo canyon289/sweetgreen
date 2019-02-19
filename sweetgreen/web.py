@@ -27,8 +27,10 @@ SWEETGREEN_RESTAURANT_MENU_BASE_URL = "https://order.sweetgreen.com/api/menus"
 SWEETGREEN_RESTAURANT_MENU_DIRECTORY = "restaurant_menus"
 
 
-USER_AGENT_STRING = ("Mozilla/5.0 (Macintosh; U; Intel Mac OS X 10_6_6; en-en) AppleWebKit/533.19.4"
-                    " KHTML, like Gecko) Version/5.0.3 Safari/533.19.4")
+USER_AGENT_STRING = (
+    "Mozilla/5.0 (Macintosh; U; Intel Mac OS X 10_6_6; en-en) AppleWebKit/533.19.4"
+    " KHTML, like Gecko) Version/5.0.3 Safari/533.19.4"
+)
 
 RAW_FILE_PATH = os.path.join("data", "raw")
 
@@ -44,7 +46,7 @@ def http_get(*args, **kwargs):
 
     # Make request
     response = requests.get(*args, **kwargs)
-    time.sleep(random.random()*2)
+    time.sleep(random.random() * 2)
     return response
 
 
@@ -56,8 +58,7 @@ def parse_locations(base_url, locations=None):
         logger.info("Requesting HTML for {}".format(location))
 
         # Request HTML from web
-        location_response = http_get(base_url,
-                                         params={"region": location})
+        location_response = http_get(base_url, params={"region": location})
         location_html = location_response.text
 
         # Parse HTML
@@ -146,13 +147,14 @@ def cache_sweetgreen_wordpress_content(file_path=RAW_FILE_PATH):
     return
 
 
-def cache_restaurants(restaurant_base_url=SWEETGREEN_RESTAURANT_LOCATION_BASE_URL,
-                      pages=1,
-                      per=1000):
+def cache_restaurants(
+    restaurant_base_url=SWEETGREEN_RESTAURANT_LOCATION_BASE_URL, pages=1, per=1000
+):
     """Caches all available restaurant locations from sweetgreens ordering app"""
     logger.info("Getting restaurant and outpost list from Sweetgreen")
-    restaurant_response = http_get(restaurant_base_url,
-                                       params={"pages": pages, "per": per})
+    restaurant_response = http_get(
+        restaurant_base_url, params={"pages": pages, "per": per}
+    )
 
     restaurant_json = restaurant_response.json()
     # TODO Make the filename user configurable
@@ -160,11 +162,12 @@ def cache_restaurants(restaurant_base_url=SWEETGREEN_RESTAURANT_LOCATION_BASE_UR
     return
 
 
-def cache_restaurant_menus(max_restaurant_id=0,
-                           file_path=RAW_FILE_PATH,
-                           restaurant_menu_base_url=SWEETGREEN_RESTAURANT_MENU_BASE_URL,
-                           restaurant_menu_directory=SWEETGREEN_RESTAURANT_MENU_DIRECTORY
-                           ):
+def cache_restaurant_menus(
+    max_restaurant_id=0,
+    file_path=RAW_FILE_PATH,
+    restaurant_menu_base_url=SWEETGREEN_RESTAURANT_MENU_BASE_URL,
+    restaurant_menu_directory=SWEETGREEN_RESTAURANT_MENU_DIRECTORY,
+):
     """Iterate through all restaurants and get menu"""
 
     restaurant_raw = os.path.join(file_path, restaurant_menu_directory)
@@ -181,7 +184,7 @@ def cache_restaurant_menus(max_restaurant_id=0,
 
     for restaurant_id in restaurant_ids:
         try:
-            logger.info("Caching menu for restaurant id  {}".format(restaurant_id ))
+            logger.info("Caching menu for restaurant id  {}".format(restaurant_id))
             full_route = "{}/{}".format(restaurant_menu_base_url, restaurant_id)
             response = http_get(full_route)
             restaurant_json = response.json()
