@@ -7,8 +7,10 @@ import time
 
 
 def getLogger():
+
     logger = logging.getLogger()
-    logger.setLevel(level=logging.NOTSET)
+
+    logger.setLevel(level=logging.INFO)
 
     file_handler = logging.FileHandler("SweetGreen.log", encoding="utf-8")
 
@@ -28,3 +30,6 @@ def getLogger():
     logger.addHandler(stream_handler)
 
     return logger
+
+
+from . import utils, data, web
