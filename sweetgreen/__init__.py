@@ -16,7 +16,8 @@ def getLogger():
         file_handler = logging.FileHandler("SweetGreen.log", encoding="utf-8")
 
         formatter = logging.Formatter(
-            "%(asctime)s - %(levelname)-8s %(name)s - %(message)s", "%Y-%m-%d %H:%M:%S UTC"
+            "%(asctime)s - %(levelname)-8s %(name)s - %(message)s",
+            "%Y-%m-%d %H:%M:%S UTC",
         )
         formatter.converter = time.gmtime
 

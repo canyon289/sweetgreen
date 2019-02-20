@@ -47,12 +47,28 @@ def compile_ingredients_json(
     for restaurant_json in restaurant_jsons:
         ingredients_jsons = restaurant_json["ingredients"]
 
+        # Move asset ID up
+        for ingredient in ingredients_jsons:
+            try:
+                assert len(ingredient["asset_ids"]) == 1
+            except AssertionError:
+                # Some ingredients have multiple assets
+                if ingredient["short"] in ("balsamic squash",):
+                    pass
+
+            ingredient["asset_ids"] = ingredient["asset_ids"][0]
+
         compiled_ingredients = utils.compile_jsons(
             ingredients_jsons, "id", compiled_ingredients
         )
 
     utils.write_json(output_file_path, output_file_name, compiled_ingredients)
     return
+
+
+def compile_ingredients_per_restaurant():
+    """Goes through JSON and creates json of restaurant with all ingredients"""
+    raise NotImplementedError
 
 
 def flatten_restaurants_json(
@@ -96,3 +112,69 @@ def flatten_restaurants_json(
 
     utils.write_json(output_file_path, output_file_name, raw_restaurants)
     return
+
+
+def compile_assets(
+    raw_file_path=RAW_FILE_PATH,
+    restaurant_menu_directory=SWEETGREEN_RESTAURANT_MENU_DIRECTORY,
+    output_file_path=FILE_PATH_CLEAN,
+    output_file_name="compiled_assets.json",
+):
+    """Compiles assets across restaurants"""
+    logger.info("Compiling assets from all restaurant menus")
+
+    restaurant_jsons = utils.load_all_json_directory(
+        os.path.join(raw_file_path, restaurant_menu_directory)
+    )
+
+    compiled_assets = {}
+
+    for restaurant_json in restaurant_jsons:
+        assets = restaurant_json["assets"]
+
+        # Drop Child IDs and get metadata
+        metadatas = []
+        for asset in assets:
+            asset.pop("child_asset_ids", None)
+            asset["metadata"] = str(asset["metadata"])
+
+        # Create a dictionary of assets
+        compiled_assets = utils.compile_jsons(assets, "id", compiled_assets)
+
+    utils.write_json(output_file_path, output_file_name, compiled_assets)
+    return
+
+
+def index_products_by_restaurant(
+    raw_file_path=RAW_FILE_PATH,
+    restaurant_menu_directory=SWEETGREEN_RESTAURANT_MENU_DIRECTORY,
+    output_file_path=FILE_PATH_CLEAN,
+    output_file_name="indexed_restaurant_products.json",
+):
+    """Compiles products across restaurants.
+
+    Notes
+    -----
+    Products can't be directly combined because restaurant and product properties are mixed
+    in API return object. Rather than remove elements this file will be indexed by restaurant
+    and left a bit more raw than usual for additional flexibility for EDA
+    """
+    logger.info("Indexing products from all restaurant menus")
+
+    restaurant_jsons = utils.load_all_json_directory(
+        os.path.join(raw_file_path, restaurant_menu_directory)
+    )
+
+    restaurant_product_index = {}
+    for restaurant_json in restaurant_jsons:
+        products = restaurant_json["products"]
+        restaurant_id = products[0]["restaurant_id"]
+
+        # Move asset ID up
+        for product in products:
+            assert len(product["asset_ids"]) == 1
+            product["asset_ids"] = product["asset_ids"][0]
+
+        restaurant_product_index[restaurant_id] = products
+
+    utils.write_json(output_file_path, output_file_name, restaurant_product_index)

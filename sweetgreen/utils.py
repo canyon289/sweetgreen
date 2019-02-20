@@ -70,8 +70,17 @@ def compile_jsons(json_array, key_name, input_json=None):
         # Compare values to ensure everything is the same
         else:
 
-            existing_record_str = json.dumps(existing_record, sort_keys=True)
-            proposed_insert_str = json.dumps(proposed_insert, sort_keys=True)
-            assert proposed_insert_str == existing_record_str
+            existing_record_str = json.dumps(existing_record, sort_keys=True, indent=2)
+            proposed_insert_str = json.dumps(proposed_insert, sort_keys=True, indent=2)
+            try:
+                assert proposed_insert_str == existing_record_str
+            except AssertionError as err:
+                raise AssertionError(
+                    "Not the same \n"
+                    "Proposed Record \n"
+                    "{} \n"
+                    "Existing Record \n"
+                    "{}".format(proposed_insert_str, existing_record_str)
+                )
 
     return input_json
