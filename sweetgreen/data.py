@@ -2,6 +2,7 @@
 Cleans raw JSON files and turns them into dataframes
 """
 import os
+import json
 
 from . import getLogger
 
@@ -90,7 +91,7 @@ def flatten_restaurants_json(
             "dietary_preference_overrides",
             "asset_ids",
         ):
-            restaurant[key] = str(restaurant[key])
+            restaurant[key] = json.dumps(restaurant[key])
 
         hours = restaurant.pop("hours")
 
@@ -136,7 +137,7 @@ def compile_assets(
         metadatas = []
         for asset in assets:
             asset.pop("child_asset_ids", None)
-            asset["metadata"] = str(asset["metadata"])
+            asset["metadata"] = json.dumps(asset["metadata"])
 
         # Create a dictionary of assets
         compiled_assets = utils.compile_jsons(assets, "id", compiled_assets)
