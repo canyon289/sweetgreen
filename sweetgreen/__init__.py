@@ -34,4 +34,4 @@ def getLogger():
     return logger
 
 
-from . import utils, data, web
+from . import utils, data, web, cluster
