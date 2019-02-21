@@ -1,3 +1,9 @@
+"""
+Command Line Interface for sweetgreen packages
+
+Note: This interface is currently incomplete. Functionality can be run through importing
+package in other python programs
+"""
 import click
 from .web import (
     cache_sweetgreen_wordpress_content,
