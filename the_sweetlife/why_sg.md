@@ -38,7 +38,7 @@ combined with modern computational methods. This is incredibly
 unique and a fresh take on paradigms from the past.
 
 ## Working with a great team
-At this point I've talked to multiple people associated with sweetgreen,
+At this point I have talked to multiple people associated with sweetgreen,
 both office staff and restaurant and the responses have been positive.
 
 From a skills standpoint the team looks stellar, with prior experience

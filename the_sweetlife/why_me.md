@@ -1,12 +1,12 @@
 # Why Me
 
-I believe there's three things I can bring for sweetgreen,
+I believe there is three things I can bring for sweetgreen,
 
 * A wide breath of prior experience in programming, statistics, manufacturing, and supply chain
 * A willingness to continue learning at a rapid rate
 * A strong desire to grow with a great team
 
-I regularly strive to expand my knowledge and techincal ability,
+I regularly strive to expand my knowledge and technical ability,
 and share that understanding with others. A relevant example
 is this blog post written on 
 [optimizing supply chains with Bayesian Statistics](http://canyon289.github.io/BayesianDecisionMaking.html#bayesian-decision-making-in-supply-chain)
@@ -16,7 +16,7 @@ we could have alone. Below are other examples of outreach in the
 community that is particularly technically focused.
 
 ## Community Outreach
-* I run ArviZ’s twitter account https://twitter.com/arviz_devs
+* I run ArviZs twitter account https://twitter.com/arviz_devs
 * Correspond with NumFOCUS frequently on open source topics such as funding, diversity etc
 * Google Summer of Code Mentor for ArviZ and PyMC (pending acceptance)
     * https://github.com/arviz-devs/arviz/wiki/GSoC-2019-projects
@@ -64,7 +64,7 @@ community that is particularly technically focused.
 * A large portion of ArviZ documentation
 * Solutions to Bayesian Analysis with Python https://github.com/aloctavodia/BAP/blob/master/exercises/Chapter1.ipynb
 
-## “Human Focused” Open Source Engagements
+## Human Focused Open Source Engagements
 * Answer issue tickets and guide new developers through Pull requests https://github.com/arviz-devs/arviz/pull/577
 
 ## Meetups
