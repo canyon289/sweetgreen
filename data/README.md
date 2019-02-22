@@ -35,5 +35,10 @@ no data processing.
 * shapefile/
 
 Shapefile data for roads came from US census site
-https://www.census.gov/geo/maps-data/data/tiger-line.htm
+https://www.census.gov/geo/maps-data/data/tiger-line.htm.
+
+To recreate analysis shapefiles must be downloaded from link below and
+unzipped into `raw/shapefile` 
+
+https://www2.census.gov/geo/tiger/TIGER2018/PRIMARYROADS/tl_2018_us_primaryroads.zip
 
