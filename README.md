@@ -23,7 +23,7 @@ and
 # Exploratory Data Analysis (EDA)
 A collection of notebooks exploring the available sweetgreen data
 
-# Interview
+# the_sweetlife
 A set of documents regarding my interview process at sweetgreen.
 Not typically included in package but added for further details on why
 I want to live the sweetlife.
