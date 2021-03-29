@@ -62,7 +62,7 @@ py==1.7.0
 pycosat==0.6.3
 pycparser==2.19
 pydocstyle==3.0.0
-Pygments==2.3.1
+Pygments==2.7.4
 pygpu==0.7.6
 pylint==2.2.2
 pymc3==3.6
